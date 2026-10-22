@@ -1,0 +1,73 @@
+<!doctype html>
+<!--
+  İnalp Akademi logo in plain HTML/CSS, recreated from the site's HandmadeLogo component.
+  Copy the <link>, the .inalp-logo rules and one variant's markup into an artifact.
+
+  "Akademi" overlaps the descender of "İnalp"; its stroke must be the colour of the ground
+  it sits on, which knocks a clean gap out of the letter it crosses. Wrong stroke = the two
+  words collide. Each ground therefore has its own variant.
+  Icon path: inalp-ikon.png sits next to this file in the kit; upload it with the artifact.
+-->
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>İnalp wordmark</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=Inter:wght@700&display=swap&subset=latin-ext" rel="stylesheet">
+<style>
+  :root {
+    --background: oklch(0.97 0.012 95);
+    --foreground: oklch(0.18 0.04 260);
+    --primary: oklch(0.4 0.12 260);
+    --primary-foreground: oklch(0.98 0 0);
+    --background-ink: oklch(0.15 0.045 263);
+    --background-cream: oklch(0.96 0.02 88);
+  }
+  body { margin: 0; font-family: Inter, sans-serif; background: var(--background); }
+
+  /* Logo. Scale the whole thing with font-size on .inalp-logo. */
+  .inalp-logo { display: inline-flex; align-items: center; gap: 0.33em; font-size: 24px; user-select: none; }
+  .inalp-logo img { width: 1em; height: 1em; object-fit: contain; }
+  .inalp-logo .words { position: relative; display: flex; flex-direction: column; }
+  .inalp-logo .title { font-family: Inter, sans-serif; font-weight: 700; letter-spacing: -0.025em; line-height: 1; }
+  .inalp-logo .sub {
+    position: absolute; bottom: -0.67em; right: -0.83em;
+    font-family: Caveat, cursive; font-weight: 700; font-size: 0.67em; white-space: nowrap;
+    paint-order: stroke fill; -webkit-text-stroke: 3px var(--stroke);
+  }
+
+  /* On a primary (blue) ground. */
+  .inalp-logo.light { color: var(--primary-foreground); --stroke: var(--primary); }
+  /* On the light page ground. */
+  .inalp-logo.dark { color: var(--foreground); --stroke: var(--background); }
+  /* On the ink (night) ground: the icon tile gets a hairline so it does not merge. */
+  .inalp-logo.ink { color: var(--background-cream); --stroke: var(--background-ink); }
+  .inalp-logo.ink img { border-radius: 26%; box-shadow: 0 0 0 1px oklch(0.96 0.02 88 / 0.12); }
+
+  /* Demo grounds only. */
+  .ground { padding: 48px 32px 56px; }
+</style>
+</head>
+<body>
+  <div class="ground" style="background: var(--background)">
+    <div class="inalp-logo dark" aria-label="İnalp Akademi">
+      <img src="inalp-ikon.png" alt="">
+      <div class="words"><span class="title">İnalp</span><span class="sub" aria-hidden="true">Akademi</span></div>
+    </div>
+  </div>
+  <div class="ground" style="background: var(--primary)">
+    <div class="inalp-logo light" aria-label="İnalp Akademi">
+      <img src="inalp-ikon.png" alt="">
+      <div class="words"><span class="title">İnalp</span><span class="sub" aria-hidden="true">Akademi</span></div>
+    </div>
+  </div>
+  <div class="ground" style="background: var(--background-ink)">
+    <div class="inalp-logo ink" aria-label="İnalp Akademi">
+      <img src="inalp-ikon.png" alt="">
+      <div class="words"><span class="title">İnalp</span><span class="sub" aria-hidden="true">Akademi</span></div>
+    </div>
+  </div>
+</body>
+</html>
