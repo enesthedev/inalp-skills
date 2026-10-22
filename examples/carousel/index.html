@@ -1,0 +1,203 @@
+<!doctype html>
+<!--
+  Example Instagram carousel built only from the inalp-artifacts kit.
+  Every slide is 1080x1350. Open with ?s=1 ... ?s=6 to show one slide at full size
+  (that is how the PNGs in this folder were rendered); without it, all slides stack.
+-->
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=1080">
+<title>İnalp örnek carousel</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Caveat:wght@700&family=DM+Serif+Display:ital@0;1&family=Inter:wght@400;500;600;700&display=swap&subset=latin-ext" rel="stylesheet">
+<style>
+  :root {
+    --background: oklch(0.97 0.012 95);
+    --cream: oklch(0.96 0.02 88);
+    --paper: oklch(0.94 0.03 78);
+    --sky: oklch(0.93 0.035 260);
+    --ink: oklch(0.15 0.045 263);
+    --fg: oklch(0.18 0.04 260);
+    --muted: oklch(0.42 0.03 260);
+    --primary: oklch(0.4 0.12 260);
+    --honey: oklch(0.78 0.13 75);
+    --accent-sky: oklch(0.82 0.1 250);
+    --hairline: oklch(0.82 0.025 88);
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: #ddd; font-family: Inter, sans-serif; color: var(--fg); }
+  .slide {
+    position: relative; width: 1080px; height: 1350px; overflow: hidden;
+    padding: 96px; display: flex; flex-direction: column;
+  }
+  body.single .slide { display: none; }
+  body.single .slide.on { display: flex; }
+
+  h1, h2 { font-family: "DM Serif Display", serif; font-weight: 400; margin: 0; letter-spacing: -0.02em; }
+  em { font-style: italic; }
+  .label { font-size: 22px; font-weight: 600; letter-spacing: 0.14em; text-transform: uppercase; }
+  .rule { height: 1px; background: currentColor; opacity: 0.18; }
+  .count { position: absolute; right: 96px; bottom: 80px; font-size: 22px; font-weight: 500; letter-spacing: 0.1em; opacity: 0.5; }
+
+  /* Logo, from assets/brand/wordmark.html. */
+  .logo { display: inline-flex; align-items: center; gap: 0.33em; font-size: 56px; }
+  .logo img { width: 1em; height: 1em; }
+  .logo .words { position: relative; display: flex; flex-direction: column; }
+  .logo .title { font-weight: 700; letter-spacing: -0.025em; line-height: 1; }
+  .logo .sub {
+    position: absolute; bottom: -0.67em; right: -0.83em; font-family: Caveat, cursive; font-weight: 700;
+    font-size: 0.67em; white-space: nowrap; paint-order: stroke fill; -webkit-text-stroke: 5px var(--stroke);
+  }
+  .logo.ink { color: var(--cream); --stroke: var(--ink); }
+  .logo.ink img { border-radius: 26%; box-shadow: 0 0 0 1px oklch(0.96 0.02 88 / 0.12); }
+  .logo.dark { color: var(--fg); --stroke: var(--cream); }
+
+  /* 1. Cover */
+  .s1 { background: var(--ink); color: var(--cream); justify-content: space-between; }
+  .s1 h1 { font-size: 104px; line-height: 0.98; }
+  .s1 h1 em { color: var(--accent-sky); }
+  .s1 .eyebrow { font-size: 30px; line-height: 1.45; max-width: 760px; opacity: 0.72; margin-top: 48px; }
+  .s1 .note { font-family: Caveat, cursive; font-weight: 700; font-size: 46px; color: var(--honey); transform: rotate(-3deg); }
+
+  /* 2. Numbers */
+  .s2 { background: var(--cream); justify-content: center; gap: 0; }
+  .s2 .stat { padding: 64px 0; display: flex; align-items: baseline; justify-content: space-between; gap: 40px; }
+  .s2 .num { font-family: "DM Serif Display", serif; font-size: 220px; line-height: 0.9; color: var(--primary); letter-spacing: -0.03em; }
+  .s2 .num sup { font-size: 0.4em; vertical-align: top; position: relative; top: 0.25em; color: var(--honey); }
+  .s2 .what { font-size: 36px; line-height: 1.3; text-align: right; max-width: 360px; color: var(--muted); }
+  .s2 h2 { font-size: 64px; margin-bottom: 40px; }
+
+  /* 3. One tutor, full bleed */
+  .s3 { padding: 0; color: var(--cream); }
+  .s3 { background: var(--ink); }
+  .s3 img.photo { position: absolute; top: 0; left: 0; width: 100%; height: 820px; object-fit: cover; object-position: 20% 70%; }
+  .s3 .shade { position: absolute; top: 0; left: 0; right: 0; height: 820px; background: linear-gradient(to bottom, oklch(0.15 0.045 263 / 0.55), transparent 22%, transparent 80%, var(--ink)); }
+  .s3 .text { position: absolute; left: 96px; right: 96px; bottom: 150px; }
+  .s3 .rank { font-family: "DM Serif Display", serif; font-size: 130px; line-height: 0.9; color: var(--honey); }
+  .s3 h2 { font-size: 72px; margin-top: 20px; }
+  .s3 .uni { font-size: 32px; margin-top: 16px; opacity: 0.8; }
+  .s3 .label { position: absolute; top: 96px; left: 96px; color: var(--cream); opacity: 0.85; }
+
+  /* 4. Three tutors */
+  .s4 { background: var(--background); }
+  .s4 h2 { font-size: 76px; line-height: 1; }
+  .s4 h2 em { color: var(--primary); }
+  .s4 .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 28px; margin-top: 80px; }
+  .s4 figure { margin: 0; }
+  .s4 figure img { width: 100%; aspect-ratio: 3 / 4.6; object-fit: cover; object-position: center 25%; display: block; }
+  .s4 figcaption { padding-top: 22px; border-top: 1px solid var(--hairline); margin-top: 22px; }
+  .s4 .n { font-weight: 600; font-size: 27px; line-height: 1.2; }
+  .s4 .u { font-size: 21px; color: var(--muted); margin-top: 8px; line-height: 1.35; }
+  .s4 .r { font-family: "DM Serif Display", serif; font-size: 40px; color: var(--primary); margin-top: 12px; }
+  .s4 .lead { font-size: 30px; color: var(--muted); margin-top: 28px; line-height: 1.45; max-width: 760px; }
+
+  /* 5. Testimonial */
+  .s5 { background: var(--paper); justify-content: center; }
+  .s5 .mark { font-family: "DM Serif Display", serif; font-size: 300px; line-height: 0.6; color: var(--honey); height: 140px; }
+  .s5 h2 { font-size: 84px; line-height: 1; }
+  .s5 h2 em { color: var(--primary); }
+  .s5 blockquote { margin: 56px 0 0; font-size: 40px; line-height: 1.45; }
+  .s5 .who { margin-top: 56px; font-size: 28px; color: var(--muted); }
+
+  /* 6. CTA */
+  .s6 { background: var(--primary); color: oklch(0.98 0 0); justify-content: space-between; padding-bottom: 150px; }
+  .s6 h2 { font-size: 112px; line-height: 0.98; }
+  .s6 h2 em { color: var(--honey); }
+  .s6 .rows { font-size: 38px; }
+  .s6 .rows div { display: flex; justify-content: space-between; padding: 30px 0; border-top: 1px solid oklch(0.98 0 0 / 0.22); }
+  .s6 .rows span:first-child { opacity: 0.65; }
+  .s6 .logo { color: oklch(0.98 0 0); --stroke: var(--primary); }
+</style>
+</head>
+<body>
+
+<section class="slide s1">
+  <div class="logo ink" aria-label="İnalp Akademi">
+    <img src="../../skills/inalp-artifacts/assets/brand/inalp-ikon.png" alt="">
+    <div class="words"><span class="title">İnalp</span><span class="sub">Akademi</span></div>
+  </div>
+  <div>
+    <h1>Türkiye'nin seçkin tıp fakültelerinde okuyan öğrencilerden birebir <em>yüz yüze özel ders.</em></h1>
+    <p class="eyebrow">Çocuğunuz, sınav başarısını kanıtlamış bir tıp fakültesi öğrencisiyle çalışsın.</p>
+  </div>
+  <span class="note">kaydır →</span>
+  <span class="count">01 / 06</span>
+</section>
+
+<section class="slide s2">
+  <h2>Rakamlarla <em>İnalp</em></h2>
+  <div class="rule"></div>
+  <div class="stat"><span class="num">300<sup>+</sup></span><span class="what">Tıp fakültesi öğrencisi eğitmen</span></div>
+  <div class="rule"></div>
+  <div class="stat"><span class="num">35<sup>+</sup></span><span class="what">İlde yüz yüze eğitim</span></div>
+  <div class="rule"></div>
+  <span class="count">02 / 06</span>
+</section>
+
+<section class="slide s3">
+  <img class="photo" src="../../skills/inalp-artifacts/assets/tutors/ankara/tugberk-keskin.jpg" alt="Tuğberk Keskin">
+  <div class="shade"></div>
+  <span class="label">Eğitmenimiz</span>
+  <div class="text">
+    <div class="label" style="position:static;opacity:.7">Türkiye sıralaması</div>
+    <div class="rank">542.</div>
+    <h2>Tuğberk Keskin</h2>
+    <div class="uni">Hacettepe Üniversitesi Tıp Fakültesi · Ankara</div>
+  </div>
+  <span class="count" style="color:var(--cream)">03 / 06</span>
+</section>
+
+<section class="slide s4">
+  <span class="label" style="color:var(--muted)">Eğitmenlerimizden</span>
+  <h2 style="margin-top:28px">Sınavı kazanmış olanlardan <em>öğrenin.</em></h2>
+  <p class="lead">Okudukları fakülteler ve Türkiye sıralamalarıyla.</p>
+  <div class="grid">
+    <figure>
+      <img src="../../skills/inalp-artifacts/assets/tutors/ankara/mehmet-deniz-yapici.jpg" alt="">
+      <figcaption><div class="n">Mehmet Deniz Yapıcı</div><div class="u">Hacettepe Üniversitesi Tıp Fakültesi</div><div class="r">583.</div></figcaption>
+    </figure>
+    <figure>
+      <img src="../../skills/inalp-artifacts/assets/tutors/ankara/ece-ozdemir.jpg" alt="">
+      <figcaption><div class="n">Ece Özdemir</div><div class="u">Hacettepe Üniversitesi Tıp Fakültesi</div><div class="r">1886.</div></figcaption>
+    </figure>
+    <figure>
+      <img src="../../skills/inalp-artifacts/assets/tutors/istanbul/dilara-aysel-ozmen.jpg" alt="">
+      <figcaption><div class="n">Dilara Aysel Özmen</div><div class="u">İstanbul Üniversitesi Tıp Fakültesi</div><div class="r">2712.</div></figcaption>
+    </figure>
+  </div>
+  <span class="count">04 / 06</span>
+</section>
+
+<section class="slide s5">
+  <div class="mark">“</div>
+  <h2>Sohbet eşliğinde <em>matematik.</em></h2>
+  <blockquote>Matematik dersleri normalde sıkıcı olur diye düşünülür ama burada dersler tam bir sohbet eşliğinde, gayet keyifli ve eğlenceli geçiyor. Zamanın nasıl geçtiğini anlamıyorum.</blockquote>
+  <div class="who">E. Tekin · Öğrenci</div>
+  <span class="count">05 / 06</span>
+</section>
+
+<section class="slide s6">
+  <div class="logo" aria-label="İnalp Akademi">
+    <img src="../../skills/inalp-artifacts/assets/brand/inalp-ikon.png" alt="">
+    <div class="words"><span class="title">İnalp</span><span class="sub">Akademi</span></div>
+  </div>
+  <h2>Ücretsiz <em>deneme dersi</em> alın.</h2>
+  <div class="rows">
+    <div><span>Telefon · WhatsApp</span><span>+90 538 657 59 61</span></div>
+    <div><span>Instagram</span><span>@1inalp</span></div>
+    <div><span>Web</span><span>inalpakademi.com</span></div>
+  </div>
+  <span class="count" style="color:oklch(0.98 0 0)">06 / 06</span>
+</section>
+
+<script>
+  const s = new URLSearchParams(location.search).get("s");
+  if (s) {
+    document.body.classList.add("single");
+    document.querySelectorAll(".slide")[s - 1]?.classList.add("on");
+  }
+</script>
+</body>
+</html>
