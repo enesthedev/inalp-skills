@@ -9,6 +9,23 @@ hand-over habits, so the artifacts, posts and specs it makes come out on-brand t
 | --- | --- |
 | [`inalp-artifacts`](skills/inalp-artifacts/SKILL.md) | Rules and brand kit for claude.ai Artifacts: the İnalp visual language, Turkish vs English copy, Instagram carousels (1080×1350, ZIP + PNG download, caption), specs for developers without source access, and sharing. |
 
+## Example: an Instagram carousel
+
+Six 1080×1350 slides built only from the kit: the site's own headline and numbers, real
+tutors with their ranks, a verbatim testimonial and the real contact details.
+Source: [`examples/carousel/index.html`](examples/carousel/index.html).
+
+<p>
+  <img src="examples/carousel/slides/01.png" width="32%" alt="Cover: birebir yüz yüze özel ders">
+  <img src="examples/carousel/slides/02.png" width="32%" alt="Numbers: 300+ tutors, 35+ provinces">
+  <img src="examples/carousel/slides/03.png" width="32%" alt="Tutor spotlight with rank">
+</p>
+<p>
+  <img src="examples/carousel/slides/04.png" width="32%" alt="Three tutors with universities and ranks">
+  <img src="examples/carousel/slides/05.png" width="32%" alt="Student testimonial">
+  <img src="examples/carousel/slides/06.png" width="32%" alt="Free trial lesson and contact">
+</p>
+
 ## What's in the kit
 
 `inalp-artifacts` carries the site's own assets, so an agent can build on-brand pages and posts
