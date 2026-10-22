@@ -1,0 +1,122 @@
+[
+  {
+    "id": "1",
+    "question": "İnalp Akademi'yi diğer özel derslerden ayıran nedir?",
+    "answer": "İnalp Akademi'de öğrenciler, tıp fakültesinde okuyan ve akademik başarısını kanıtlamış eğitmenlerle birebir çalışır. Süreç yalnızca ders anlatımıyla sınırlı değildir; öğrencinin ihtiyaçları belirlenir, uygun eğitmenle eşleştirilir ve gelişimi düzenli olarak takip edilir.",
+    "category": "Genel"
+  },
+  {
+    "id": "2",
+    "question": "İnalp Akademi kimler için uygundur?",
+    "answer": "5. sınıftan mezun gruba kadar okul derslerinde desteğe ihtiyaç duyan, LGS veya YKS'ye hazırlanan öğrenciler için uygundur. Öğrencinin sınıfına ve ihtiyacına göre birebir ders, ders + koçluk veya yalnızca koçluk seçenekleri sunulur.",
+    "category": "Genel"
+  },
+  {
+    "id": "3",
+    "question": "Süreç nasıl ilerliyor?",
+    "answer": "Önce öğrencinin sınıfını, ihtiyaç duyduğu dersleri ve beklentilerini öğreniyoruz. Ardından uygun eğitmeni belirliyor, ücretsiz deneme dersini planlıyoruz. Deneme sonrasında öğrenci ve veli memnun kalırsa ders programını birlikte oluşturuyoruz.",
+    "category": "Genel"
+  },
+  {
+    "id": "4",
+    "question": "Nasıl başlayabilirim?",
+    "answer": "Ücretsiz deneme dersi formunu doldurmanız yeterli. İl temsilcimiz sizinle iletişime geçerek öğrencinin ihtiyaçlarını öğrenir ve uygun eğitmenle deneme dersini planlar.",
+    "category": "Genel"
+  },
+  {
+    "id": "5",
+    "question": "Şehrimde kiminle iletişim kuracağım?",
+    "answer": "Bulunduğunuz ildeki İnalp Akademi il temsilcisi sürecinizle ilgilenir. Eğitmen eşleştirmesinden deneme dersine ve süreç içerisindeki ihtiyaçlarınıza kadar iletişiminizi il temsilciniz üzerinden sürdürebilirsiniz.",
+    "category": "Genel"
+  },
+  {
+    "id": "6",
+    "question": "Ücretsiz deneme dersinde ne yapılıyor?",
+    "answer": "Deneme dersi, öğrencinin eğitmeni tanıması ve ders işleyişini deneyimlemesi için yapılan birebir ilk derstir. Eğitmen öğrencinin seviyesini ve ihtiyaçlarını gözlemler; öğrenci de eğitmenin anlatım tarzını deneyimler.",
+    "category": "Deneme Dersi"
+  },
+  {
+    "id": "7",
+    "question": "Deneme dersi gerçekten ücretsiz mi?",
+    "answer": "Evet. İlk deneme dersi ücretsizdir. Deneme sonrasında devam edip etmeme kararını öğrenci ve veli verir.",
+    "category": "Deneme Dersi"
+  },
+  {
+    "id": "8",
+    "question": "Deneme dersinden memnun kalmazsak ne olur?",
+    "answer": "Her öğrencinin öğrenme biçimi ve eğitmenden beklentisi farklı olabilir. Eğitmenle uyum sağlanamazsa il temsilcinizle görüşerek öğrenciniz için farklı bir eğitmen değerlendirebilirsiniz.",
+    "category": "Deneme Dersi"
+  },
+  {
+    "id": "9",
+    "question": "Neden tıp fakültesi öğrencilerinden ders almalıyım?",
+    "answer": "Eğitmenlerimiz kısa süre önce öğrencinizin hazırlandığı sınavlardan başarıyla geçmiş, bugün ise tıp fakültelerinde eğitimlerine devam eden öğrencilerden oluşur. Böylece öğrenciniz yalnızca ders anlatan bir eğitmenle değil, sınav sürecini yakın zamanda yaşamış bir rol modelle çalışır.",
+    "category": "Eğitmenler"
+  },
+  {
+    "id": "10",
+    "question": "Eğitmenler nasıl seçiliyor?",
+    "answer": "Eğitmen adaylarımız akademik geçmişleri ve YKS başarılarının yanında iletişim, ders anlatımı ve öğrenciyle çalışma becerileri açısından değerlendirilir. Mülakat ve eğitim sürecini başarıyla tamamlayan adaylar İnalp Akademi'de eğitmen olarak sürece dahil edilir.",
+    "category": "Eğitmenler"
+  },
+  {
+    "id": "11",
+    "question": "Eğitmenimi seçebilir miyim?",
+    "answer": "İl temsilcimiz; öğrencinin sınıfı, ihtiyaç duyduğu dersler, konumu ve beklentilerini dikkate alarak uygun eğitmenleri belirler. Uygunluk durumuna göre eğitmen alternatifleri değerlendirilerek öğrenci için doğru eşleşme oluşturulur.",
+    "category": "Eğitmenler"
+  },
+  {
+    "id": "12",
+    "question": "Eğitmenle uyum sağlayamazsak ne yapabiliriz?",
+    "answer": "İl temsilcinizle iletişime geçebilirsiniz. Durumu değerlendirerek öğrenciniz için daha uygun başka bir eğitmenle yeni eşleşme sağlayabiliriz.",
+    "category": "Eğitmenler"
+  },
+  {
+    "id": "13",
+    "question": "Dersler yüz yüze mi, online mı?",
+    "answer": "Her iki seçenek de bulunur. Eğitmenimizin bulunduğu illerde uygunluk durumuna göre yüz yüze, Türkiye'nin her yerinden ise online birebir ders alınabilir. Ders şekli öğrencinin tercihine göre belirlenir.",
+    "category": "Eğitim & İşleyiş"
+  },
+  {
+    "id": "14",
+    "question": "Yüz yüze dersler nerede yapılıyor?",
+    "answer": "Dersin yapılacağı yer, öğrenci ve eğitmenin konumu ile uygunluğu dikkate alınarak birlikte planlanır. İl temsilciniz eşleşme sırasında yüz yüze dersin detayları hakkında sizi bilgilendirir.",
+    "category": "Eğitim & İşleyiş"
+  },
+  {
+    "id": "15",
+    "question": "Ders programı nasıl belirleniyor?",
+    "answer": "Ders günleri ve saatleri öğrencinin programı ile eğitmenin uygunluğu birlikte değerlendirilerek belirlenir. Düzenli çalışan öğrenciler için mümkün olduğunca sürdürülebilir bir haftalık program oluşturulur.",
+    "category": "Eğitim & İşleyiş"
+  },
+  {
+    "id": "16",
+    "question": "Ders iptal edilirse ne olur?",
+    "answer": "İptal veya program değişikliği gerektiğinde öğrenci ve eğitmen karşılıklı iletişim kurarak uygun yeni zamanı planlar. Derslerin düzenli ilerlemesi için değişikliklerin mümkün olduğunca önceden bildirilmesini isteriz.",
+    "category": "Eğitim & İşleyiş"
+  },
+  {
+    "id": "17",
+    "question": "Ders ücretleri ne kadar?",
+    "answer": "Yüz yüze birebir dersler {{faceToFacePrice}} TL/saat, online birebir dersler ise {{onlinePrice}} TL/saat olarak ücretlendirilir. Ücretlere KDV dahildir. Güncel ücretleri ve öğrenciniz için uygun seçeneği ilgili program bölümünden inceleyebilirsiniz.",
+    "category": "Ücretler"
+  },
+  {
+    "id": "18",
+    "question": "Paket satın almak zorunda mıyım?",
+    "answer": "Hayır. Uzun dönemli bir paket veya toplu ders satın alma zorunluluğu bulunmaz. Dersler planlanan program doğrultusunda ilerler ve ödeme haftalık olarak gerçekleştirilebilir.",
+    "category": "Ücretler"
+  },
+  {
+    "id": "19",
+    "question": "Ödemeler nasıl yapılıyor?",
+    "answer": "Ders ücretleri İnalp Akademi'nin kurumsal hesabına ödenir ve ödemeler faturalandırılır. Ödeme süreciyle ilgili gerekli bilgiler kayıt sırasında il temsilciniz tarafından paylaşılır.",
+    "category": "Ücretler"
+  },
+  {
+    "id": "20",
+    "question": "Koçluk için ayrıca ücret ödeniyor mu?",
+    "answer": "Birebir ders, ders + koçluk ve yalnızca koçluk farklı programlardır. Öğrencinin ihtiyacına göre uygun program belirlenir ve ücretlendirme seçilen hizmete göre açıklanır.",
+    "category": "Ücretler"
+  }
+]

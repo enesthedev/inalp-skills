@@ -1,0 +1,1032 @@
+{
+  "tutors": [
+    {
+      "id": "55",
+      "name": "Elif Beyza Güngör",
+      "rank": "Türkiye 18688",
+      "university": "Recep Tayyip Erdoğan Üniversitesi Tıp Fakültesi",
+      "city": "Rize",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/rize/elif-beyza-gungor.jpg"
+    },
+    {
+      "id": "34",
+      "name": "Muhammed Seyitoğulları",
+      "rank": "Türkiye 22065",
+      "university": "Van Yüzüncü Yıl Üniversitesi Tıp Fakültesi",
+      "city": "Van",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/van/muhammed-seyitogullari.jpg"
+    },
+    {
+      "id": "44",
+      "name": "Diyar Yunus",
+      "rank": "Türkiye 14371",
+      "university": "Aydın Adnan Menderes Üniversitesi Tıp Fakültesi",
+      "city": "Aydın",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/aydin/diyar-yunus.jpg"
+    },
+    {
+      "id": "41",
+      "name": "Yağmur Sevi",
+      "rank": "Türkiye 8539",
+      "university": "Sağlık Bilimleri Üniversitesi (İzmir)",
+      "city": "İzmir",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/izmir/yagmur-sevi.jpg"
+    },
+    {
+      "id": "70",
+      "name": "Senanur Sivaslıoğlu",
+      "rank": "Türkiye 20529",
+      "university": "Balıkesir Üniversitesi Tıp Fakültesi",
+      "city": "Balıkesir",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/balikesir/senanur-sivaslioglu.jpg"
+    },
+    {
+      "id": "40",
+      "name": "Buse Öğücü",
+      "rank": "Türkiye 6832",
+      "university": "Dokuz Eylül Üniversitesi Tıp Fakültesi",
+      "city": "İzmir",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/izmir/buse-ogucu.jpg"
+    },
+    {
+      "id": "54",
+      "name": "Büşra Saraç",
+      "rank": "Türkiye 23256",
+      "university": "Recep Tayyip Erdoğan Üniversitesi Tıp Fakültesi",
+      "city": "Rize",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/rize/busra-sarac.jpg"
+    },
+    {
+      "id": "43",
+      "name": "Berat Kumtepe",
+      "rank": "Türkiye 16998",
+      "university": "Aydın Adnan Menderes Üniversitesi Tıp Fakültesi",
+      "city": "Aydın",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/aydin/berat-kumtepe.jpg"
+    },
+    {
+      "id": "32",
+      "name": "Ece Korkmaz",
+      "rank": "Türkiye 15730",
+      "university": "Sağlık Bilimleri Üniversitesi (Adana)",
+      "city": "Adana",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/adana/ece-korkmaz.jpg"
+    },
+    {
+      "id": "61",
+      "name": "Muhammet Arda Haykır",
+      "rank": "Türkiye 21714",
+      "university": "Giresun Üniversitesi Tıp Fakültesi",
+      "city": "Giresun",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/giresun/muhammet-arda-haykir.jpg"
+    },
+    {
+      "id": "49",
+      "name": "Tülin İpek",
+      "rank": "Türkiye 19711",
+      "university": "Gaziantep Üniversitesi Tıp Fakültesi",
+      "city": "Gaziantep",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/gaziantep/tulin-ipek.jpg"
+    },
+    {
+      "id": "48",
+      "name": "Bünyamin Varol",
+      "rank": "Türkiye 29015",
+      "university": "Adıyaman Üniversitesi Tıp Fakültesi",
+      "city": "Adıyaman",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/adiyaman/bunyamin-varol.jpg"
+    },
+    {
+      "id": "63",
+      "name": "Gizem Özer",
+      "rank": "Türkiye 21573",
+      "university": "Tokat Gaziosmanpaşa Üniversitesi Tıp Fakültesi",
+      "city": "Tokat",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/tokat/gizem-ozer.jpg"
+    },
+    {
+      "id": "58",
+      "name": "Esin Boynuuzun",
+      "rank": "Türkiye 25000",
+      "university": "Giresun Üniversitesi Tıp Fakültesi",
+      "city": "Giresun",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/giresun/esin-boynuuzun.jpg"
+    },
+    {
+      "id": "50",
+      "name": "İlhan Kaan Bağlan",
+      "rank": "Türkiye 14702",
+      "university": "Aydın Adnan Menderes Üniversitesi Tıp Fakültesi",
+      "city": "Aydın",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/aydin/ilhan-kaan-baglan.jpg"
+    },
+    {
+      "id": "21",
+      "name": "Ayşe Nur Öztürk",
+      "rank": "Türkiye 24118.cisi",
+      "university": "Sağlık Bilimleri Üniversitesi (Trabzon)",
+      "city": "Trabzon",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "online",
+      "photo": "assets/tutors/trabzon/ayse-nur-ozturk.jpg"
+    },
+    {
+      "id": "72",
+      "name": "Ece Özdemir",
+      "rank": "Türkiye 1886",
+      "university": "Hacettepe Üniversitesi Tıp Fakültesi",
+      "city": "Ankara",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/ankara/ece-ozdemir.jpg"
+    },
+    {
+      "id": "29",
+      "name": "Enes İlden",
+      "rank": "Türkiye 7913",
+      "university": "Akdeniz Üniversitesi Tıp Fakültesi",
+      "city": "Adana",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/adana/enes-ilden.jpg"
+    },
+    {
+      "id": "66",
+      "name": "Elif Uysal",
+      "rank": "Türkiye 9266",
+      "university": "Bursa Uludağ Üniversitesi Tıp Fakültesi",
+      "city": "Bursa",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/bursa/elif-uysal.jpg"
+    },
+    {
+      "id": "76",
+      "name": "Tuğberk Keskin",
+      "rank": "Türkiye 542",
+      "university": "Hacettepe Üniversitesi Tıp Fakültesi",
+      "city": "Ankara",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/ankara/tugberk-keskin.jpg"
+    },
+    {
+      "id": "19",
+      "name": "Nehir Yılmaz",
+      "rank": "Türkiye 24072.cısı",
+      "university": "Recep Tayyip Erdoğan Üniversitesi Tıp Fakültesi",
+      "city": "Rize",
+      "subjects": [
+        "Kimya",
+        "Biyoloji",
+        "Türkçe"
+      ],
+      "mode": "online",
+      "photo": "assets/tutors/rize/nehir-yilmaz.jpg"
+    },
+    {
+      "id": "11",
+      "name": "Sude Kaya",
+      "rank": "Türkiye 23476.cısı",
+      "university": "Giresun Üniversitesi Tıp Fakültesi",
+      "city": "Giresun",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "face_to_face",
+      "photo": "assets/tutors/giresun/sude-kaya.jpg"
+    },
+    {
+      "id": "86",
+      "name": "Saliha Ozkal",
+      "rank": "Türkiye 21105",
+      "university": "Sivas Cumhuriyet Üniversitesi Tıp Fakültesi",
+      "city": "Sivas",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/sivas/saliha-ozkal.jpg"
+    },
+    {
+      "id": "39",
+      "name": "Beyza Nurgül Serin",
+      "rank": "Türkiye 4069",
+      "university": "Ege Üniversitesi Tıp Fakültesi",
+      "city": "İzmir",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/izmir/beyza-nurgul-serin.jpg"
+    },
+    {
+      "id": "30",
+      "name": "Furkan Baday",
+      "rank": "Türkiye 12357",
+      "university": "Mersin Üniversitesi Tıp Fakültesi",
+      "city": "Mersin",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/mersin/furkan-baday.jpg"
+    },
+    {
+      "id": "77",
+      "name": "Mustafa Bora Terzioğlu",
+      "rank": "Türkiye 2216",
+      "university": "Ankara Üniversitesi Tıp Fakültesi",
+      "city": "Ankara",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/ankara/mustafa-bora-terzioglu.jpg"
+    },
+    {
+      "id": "57",
+      "name": "Ahmet Emir Yavuz",
+      "rank": "Türkiye 10760",
+      "university": "Ondokuz Mayıs Üniversitesi Tıp Fakültesi",
+      "city": "Samsun",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/samsun/ahmet-emir-yavuz.jpg"
+    },
+    {
+      "id": "74",
+      "name": "Elif Mucan",
+      "rank": "Türkiye 7128",
+      "university": "Sağlık Bilimleri Üniversitesi (Ankara)",
+      "city": "Ankara",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/ankara/elif-mucan.jpg"
+    },
+    {
+      "id": "42",
+      "name": "İlayda Sarı",
+      "rank": "Türkiye 4723",
+      "university": "Ege Üniversitesi Tıp Fakültesi",
+      "city": "İzmir",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/izmir/ilayda-sari.jpg"
+    },
+    {
+      "id": "35",
+      "name": "Zeynep Akalp",
+      "rank": "Türkiye 23019",
+      "university": "Van Yüzüncü Yıl Üniversitesi Tıp Fakültesi",
+      "city": "Van",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/van/zeynep-akalp.jpg"
+    },
+    {
+      "id": "53",
+      "name": "Burak Bulut",
+      "rank": "Türkiye 23564",
+      "university": "Mardin Artuklu Üniversitesi Tıp Fakültesi",
+      "city": "Mardin",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/mardin/burak-bulut.jpg"
+    },
+    {
+      "id": "9",
+      "name": "Azra Nermin Karadeniz",
+      "rank": "Türkiye 21947.cısı",
+      "university": "Giresun Üniversitesi Tıp Fakültesi",
+      "city": "Giresun",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "online",
+      "photo": "assets/tutors/giresun/azra-nermin-karadeniz.jpg"
+    },
+    {
+      "id": "64",
+      "name": "Cemal Sezgin",
+      "rank": "Türkiye 7548",
+      "university": "İstanbul Medeniyet Üniversitesi Tıp Fakültesi",
+      "city": "İstanbul",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/istanbul/cemal-sezgin.jpg"
+    },
+    {
+      "id": "67",
+      "name": "Hayrunisa Taşçı",
+      "rank": "Türkiye 9410",
+      "university": "Bursa Uludağ Üniversitesi Tıp Fakültesi",
+      "city": "Bursa",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/bursa/hayrunisa-tasci.jpg"
+    },
+    {
+      "id": "51",
+      "name": "Özcan Akmaz",
+      "rank": "Türkiye 5455",
+      "university": "Dokuz Eylül Üniversitesi Tıp Fakültesi",
+      "city": "İzmir",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/izmir/ozcan-akmaz.jpg"
+    },
+    {
+      "id": "3",
+      "name": "Doğa Güverçinci",
+      "rank": "Türkiye 14422.cısı",
+      "university": "Çukurova Üniversitesi Tıp Fakültesi",
+      "city": "Adana",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "face_to_face",
+      "photo": "assets/tutors/adana/doga-guvercinci.jpg",
+      "featured": 6
+    },
+    {
+      "id": "45",
+      "name": "Muradiye Kozak",
+      "rank": "Türkiye 15737",
+      "university": "Aydın Adnan Menderes Üniversitesi Tıp Fakültesi",
+      "city": "Aydın",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/aydin/muradiye-kozak.jpg"
+    },
+    {
+      "id": "65",
+      "name": "Saime Çoban",
+      "rank": "Türkiye 8136",
+      "university": "İstanbul Medeniyet Üniversitesi Tıp Fakültesi",
+      "city": "İstanbul",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/istanbul/saime-coban.jpg"
+    },
+    {
+      "id": "47",
+      "name": "Nurşen Hotak",
+      "rank": "Türkiye 28551",
+      "university": "Sağlık Bilimleri Üniversitesi (Aydın)",
+      "city": "Aydın",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/aydin/nursen-hotak.jpg"
+    },
+    {
+      "id": "25",
+      "name": "Sudenaz Kudal",
+      "rank": "Türkiye 15303.cüsü",
+      "university": "Karadeniz Teknik Üniversitesi Tıp Fakültesi",
+      "city": "Trabzon",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "face_to_face",
+      "photo": "assets/tutors/trabzon/sudenaz-kudal.jpg"
+    },
+    {
+      "id": "81",
+      "name": "Esmagül Tokbay",
+      "rank": "Türkiye 8962",
+      "university": "Erciyes Üniversitesi Tıp Fakültesi",
+      "city": "Kayseri",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/kayseri/esmagul-tokbay.jpg"
+    },
+    {
+      "id": "52",
+      "name": "Yunus Emre Deliktaş",
+      "rank": "Türkiye 23313",
+      "university": "Gaziantep Üniversitesi Tıp Fakültesi",
+      "city": "Gaziantep",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/gaziantep/yunus-emre-deliktas.jpg"
+    },
+    {
+      "id": "71",
+      "name": "Muhammet Ali Tecirli",
+      "rank": "Türkiye 17291",
+      "university": "Sakarya Üniversitesi Tıp Fakültesi",
+      "city": "Sakarya",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/sakarya/muhammet-ali-tecirli.jpg"
+    },
+    {
+      "id": "75",
+      "name": "Umut Çatal",
+      "rank": "Türkiye 7667",
+      "university": "Sağlık Bilimleri Üniversitesi (Ankara)",
+      "city": "Ankara",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/ankara/umut-catal.jpg"
+    },
+    {
+      "id": "10",
+      "name": "Nisa Oktar",
+      "rank": "Türkiye 26702.cısı",
+      "university": "Giresun Üniversitesi Tıp Fakültesi",
+      "city": "Giresun",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "face_to_face",
+      "photo": "assets/tutors/giresun/nisa-oktar.jpg"
+    },
+    {
+      "id": "56",
+      "name": "Nisa Gürelli",
+      "rank": "Türkiye 8589",
+      "university": "Ondokuz Mayıs Üniversitesi Tıp Fakültesi",
+      "city": "Samsun",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/samsun/nisa-gurelli.jpg"
+    },
+    {
+      "id": "28",
+      "name": "Umutcan Özener",
+      "rank": "Türkiye 4701",
+      "university": "Ege Üniversitesi Tıp Fakültesi",
+      "city": "İzmir",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Biyoloji"
+      ],
+      "mode": "face_to_face",
+      "photo": "assets/tutors/izmir/umutcan-ozener.jpg",
+      "featured": 4
+    },
+    {
+      "id": "37",
+      "name": "Elif Nevra Dursun",
+      "rank": "Türkiye 25699",
+      "university": "Malatya Turgut Özal Üniversitesi Tıp Fakültesi",
+      "city": "Malatya",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/malatya/elif-nevra-dursun.jpg"
+    },
+    {
+      "id": "6",
+      "name": "Eray Yılmaz",
+      "rank": "Türkiye 2760.cısı",
+      "university": "Ankara Üniversitesi Tıp Fakültesi",
+      "city": "Ankara",
+      "subjects": [
+        "Matematik",
+        "Biyoloji",
+        "Türkçe"
+      ],
+      "mode": "online",
+      "photo": "assets/tutors/ankara/eray-yilmaz.jpg",
+      "featured": 2
+    },
+    {
+      "id": "46",
+      "name": "Zeynep Ece Arın",
+      "rank": "Türkiye 17059",
+      "university": "Aydın Adnan Menderes Üniversitesi Tıp Fakültesi",
+      "city": "Aydın",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/aydin/zeynep-ece-arin.jpg"
+    },
+    {
+      "id": "85",
+      "name": "Nur Sena Özlü",
+      "rank": "Türkiye 21980",
+      "university": "Sivas Cumhuriyet Üniversitesi Tıp Fakültesi",
+      "city": "Sivas",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/sivas/nur-sena-ozlu.jpg"
+    },
+    {
+      "id": "36",
+      "name": "Aleyna Ercan",
+      "rank": "Türkiye 16834",
+      "university": "İnönü Üniversitesi Tıp Fakültesi",
+      "city": "Malatya",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/malatya/aleyna-ercan.jpg"
+    },
+    {
+      "id": "69",
+      "name": "Melis Erdoğan",
+      "rank": "Türkiye 19378",
+      "university": "Balıkesir Üniversitesi Tıp Fakültesi",
+      "city": "Balıkesir",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/balikesir/melis-erdogan.jpg"
+    },
+    {
+      "id": "4",
+      "name": "Ahsen Tuna",
+      "rank": "Türkiye 2331.cısı",
+      "university": "Ankara Üniversitesi Tıp Fakültesi",
+      "city": "Ankara",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "face_to_face",
+      "photo": "assets/tutors/ankara/ahsen-tuna.jpg",
+      "featured": 1
+    },
+    {
+      "id": "38",
+      "name": "Zelal Kaplan",
+      "rank": "Türkiye 23855",
+      "university": "İnönü Üniversitesi Tıp Fakültesi",
+      "city": "Malatya",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/malatya/zelal-kaplan.jpg"
+    },
+    {
+      "id": "84",
+      "name": "Muhammed Muhiddin Şimşek",
+      "rank": "Türkiye 18975",
+      "university": "Sivas Cumhuriyet Üniversitesi Tıp Fakültesi",
+      "city": "Sivas",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/sivas/muhammed-muhiddin-simsek.jpg"
+    },
+    {
+      "id": "73",
+      "name": "Efe Balcı",
+      "rank": "Türkiye 5712",
+      "university": "Sağlık Bilimleri Üniversitesi (Ankara)",
+      "city": "Ankara",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/ankara/efe-balci.jpg"
+    },
+    {
+      "id": "62",
+      "name": "İrem Aylin Yıldırım",
+      "rank": "Türkiye 20430",
+      "university": "Tokat Gaziosmanpaşa Üniversitesi Tıp Fakültesi",
+      "city": "Tokat",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/tokat/irem-aylin-yildirim.jpg"
+    },
+    {
+      "id": "27",
+      "name": "Dilara Aysel Özmen",
+      "rank": "Türkiye 2712",
+      "university": "İstanbul Üniversitesi Tıp Fakültesi",
+      "city": "İstanbul",
+      "subjects": [
+        "Biyoloji",
+        "Kimya",
+        "Türkçe"
+      ],
+      "mode": "face_to_face",
+      "photo": "assets/tutors/istanbul/dilara-aysel-ozmen.jpg",
+      "featured": 3
+    },
+    {
+      "id": "80",
+      "name": "Aleyna Tupal",
+      "rank": "Türkiye 6908",
+      "university": "Erciyes Üniversitesi Tıp Fakültesi",
+      "city": "Kayseri",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/kayseri/aleyna-tupal.jpg"
+    },
+    {
+      "id": "78",
+      "name": "Mehmet Deniz Yapıcı",
+      "rank": "Türkiye 583",
+      "university": "Hacettepe Üniversitesi Tıp Fakültesi",
+      "city": "Ankara",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/ankara/mehmet-deniz-yapici.jpg"
+    },
+    {
+      "id": "2",
+      "name": "Buğra Emirhan Uysal",
+      "rank": "Türkiye 14143.cüsü",
+      "university": "Sağlık Bilimleri Üniversitesi (Adana)",
+      "city": "Adana",
+      "subjects": [
+        "Kimya",
+        "Biyoloji",
+        "Türkçe"
+      ],
+      "mode": "face_to_face",
+      "photo": "assets/tutors/adana/bugra-emirhan-uysal.jpg"
+    },
+    {
+      "id": "59",
+      "name": "Fatih Eren Kılıçaslan",
+      "rank": "Türkiye 21477",
+      "university": "Giresun Üniversitesi Tıp Fakültesi",
+      "city": "Giresun",
+      "subjects": [
+        "Matematik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/giresun/fatih-eren-kilicaslan.jpg"
+    },
+    {
+      "id": "82",
+      "name": "Arda Yakar",
+      "rank": "Türkiye 8157",
+      "university": "Sivas Cumhuriyet Üniversitesi Tıp Fakültesi",
+      "city": "Sivas",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/sivas/arda-yakar.jpg"
+    },
+    {
+      "id": "18",
+      "name": "Umut Oskan",
+      "rank": "Türkiye 11781.cısı",
+      "university": "Mersin Üniversitesi Tıp Fakültesi",
+      "city": "Mersin",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Türkçe"
+      ],
+      "mode": "face_to_face",
+      "photo": "assets/tutors/mersin/umut-oskan.jpg",
+      "featured": 5
+    },
+    {
+      "id": "31",
+      "name": "Ayşe Sena Ordu",
+      "rank": "Türkiye 8483",
+      "university": "Çukurova Üniversitesi Tıp Fakültesi",
+      "city": "Adana",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/adana/ayse-sena-ordu.jpg"
+    },
+    {
+      "id": "83",
+      "name": "Hasan Kahraman",
+      "rank": "Türkiye 18275",
+      "university": "Sivas Cumhuriyet Üniversitesi Tıp Fakültesi",
+      "city": "Sivas",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/sivas/hasan-kahraman.jpg"
+    },
+    {
+      "id": "33",
+      "name": "Sıla Saygılı",
+      "rank": "Türkiye 11858",
+      "university": "Sağlık Bilimleri Üniversitesi (Adana)",
+      "city": "Adana",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/adana/sila-saygili.jpg"
+    },
+    {
+      "id": "87",
+      "name": "Onur Nalbantoruç",
+      "rank": "Türkiye 16779",
+      "university": "Kırıkkale Üniversitesi Tıp Fakültesi",
+      "city": "Kırıkkale",
+      "subjects": [
+        "Fizik",
+        "Kimya",
+        "Biyoloji"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/kirikkale/onur-nalbantoruc.jpg"
+    },
+    {
+      "id": "68",
+      "name": "Elif Arman",
+      "rank": "Türkiye 17032",
+      "university": "Balıkesir Üniversitesi Tıp Fakültesi",
+      "city": "Balıkesir",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/balikesir/elif-arman.jpg"
+    },
+    {
+      "id": "24",
+      "name": "Eda Nur Taşkın",
+      "rank": "Türkiye 13839.cusu",
+      "university": "Karadeniz Teknik Üniversitesi Tıp Fakültesi",
+      "city": "Trabzon",
+      "subjects": [
+        "Türkçe",
+        "Matematik",
+        "Fizik"
+      ],
+      "mode": "face_to_face",
+      "photo": "assets/tutors/trabzon/eda-nur-taskin.jpg"
+    },
+    {
+      "id": "79",
+      "name": "Ülkü Diyar Kısacıkoğlu",
+      "rank": "Türkiye 10291",
+      "university": "Selçuk Üniversitesi Tıp Fakültesi",
+      "city": "Konya",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/konya/ulku-diyar-kisacikoglu.jpg"
+    },
+    {
+      "id": "60",
+      "name": "Kübra Nur Tunçer",
+      "rank": "Türkiye 23426",
+      "university": "Giresun Üniversitesi Tıp Fakültesi",
+      "city": "Giresun",
+      "subjects": [
+        "Matematik",
+        "Fizik",
+        "Kimya"
+      ],
+      "mode": "both",
+      "photo": "assets/tutors/giresun/kubra-nur-tuncer.jpg"
+    }
+  ]
+}

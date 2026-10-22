@@ -1,0 +1,112 @@
+[
+  {
+    "id": "1",
+    "name": "Hacettepe Üniversitesi",
+    "logo": "assets/universities/hacettepe-universitesi.png"
+  },
+  {
+    "id": "2",
+    "name": "Ankara Üniversitesi",
+    "logo": "assets/universities/ankara-universitesi.png"
+  },
+  {
+    "id": "3",
+    "name": "Gazi Üniversitesi",
+    "logo": "assets/universities/gazi-universitesi.png"
+  },
+  {
+    "id": "5",
+    "name": "İstanbul Üniversitesi",
+    "logo": "assets/universities/istanbul-universitesi.png"
+  },
+  {
+    "id": "6",
+    "name": "Ege Üniversitesi",
+    "logo": "assets/universities/ege-universitesi.png"
+  },
+  {
+    "id": "7",
+    "name": "Dokuz Eylül Üniversitesi",
+    "logo": "assets/universities/dokuz-eylul-universitesi.png"
+  },
+  {
+    "id": "9",
+    "name": "Akdeniz Üniversitesi",
+    "logo": "assets/universities/akdeniz-universitesi.png"
+  },
+  {
+    "id": "12",
+    "name": "Bursa Uludağ Üniversitesi",
+    "logo": "assets/universities/bursa-uludag-universitesi.png"
+  },
+  {
+    "id": "13",
+    "name": "Çukurova Üniversitesi",
+    "logo": "assets/universities/cukurova-universitesi.png"
+  },
+  {
+    "id": "14",
+    "name": "Atatürk Üniversitesi",
+    "logo": "assets/universities/ataturk-universitesi.png"
+  },
+  {
+    "id": "15",
+    "name": "Ondokuz Mayıs Üniversitesi",
+    "logo": "assets/universities/ondokuzmayis-universitesi.png"
+  },
+  {
+    "id": "16",
+    "name": "Mersin Üniversitesi",
+    "logo": "assets/universities/mersin-universitesi.png"
+  },
+  {
+    "id": "18",
+    "name": "Karadeniz Teknik Üniversitesi",
+    "logo": "assets/universities/karadeniz-teknik-universitesi.png"
+  },
+  {
+    "id": "19",
+    "name": "Giresun Üniversitesi",
+    "logo": "assets/universities/giresun-universitesi.png"
+  },
+  {
+    "id": "20",
+    "name": "Sağlık Bilimleri Üniversitesi",
+    "logo": "assets/universities/saglik-bilimleri-universitesi.png"
+  },
+  {
+    "id": "22",
+    "name": "Aydın Adnan Menderes Üniversitesi",
+    "logo": "assets/universities/aydin-adnan-menderes-universitesi.png"
+  },
+  {
+    "id": "23",
+    "name": "Balıkesir Üniversitesi",
+    "logo": "assets/universities/balikesir-universitesi.png"
+  },
+  {
+    "id": "24",
+    "name": "Gaziantep Üniversitesi",
+    "logo": "assets/universities/gaziantep-universitesi.png"
+  },
+  {
+    "id": "25",
+    "name": "İnönü Üniversitesi",
+    "logo": "assets/universities/inonu-universitesi.png"
+  },
+  {
+    "id": "26",
+    "name": "Sakarya Üniversitesi",
+    "logo": "assets/universities/sakarya-universitesi.png"
+  },
+  {
+    "id": "27",
+    "name": "Sivas Cumhuriyet Üniversitesi",
+    "logo": "assets/universities/sivas-cumhuriyet-universitesi.png"
+  },
+  {
+    "id": "28",
+    "name": "Van Yüzüncü Yıl Üniversitesi",
+    "logo": "assets/universities/van-yuzuncu-yil-universitesi.png"
+  }
+]

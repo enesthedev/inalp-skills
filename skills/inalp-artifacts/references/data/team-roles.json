@@ -1,0 +1,37 @@
+{
+  "roles": [
+    {
+      "slug": "egitmen-ol",
+      "intakeValue": "egitmen",
+      "label": "Eğitmen Ol",
+      "name": "Eğitmen",
+      "discipline": "Eğitmenlik",
+      "ink": "var(--ink-tutor)",
+      "headline": "Birebir ders veriyorsun",
+      "audience": "Kendi bölümünün derslerinde, online ya da yüz yüze",
+      "metaTitle": "Eğitmen Başvuru Formu",
+      "metaDescription": "İnalp Akademi eğitmen kadrosuna katılın. Kendi bölümünüzün derslerinde birebir ders verin, deneyiminizle öğrencilere ilham olun.",
+      "ogTitle": "İnalp Akademi'de Eğitmen Ol",
+      "ogDescription": "Türkiye'nin en seçkin eğitmen kadrosuna katılın, geleceğin başarı hikâyelerini birlikte yazalım.",
+      "successTitle": "Başvurunuz Alındı!",
+      "successDescription": "Eğitmen başvurunuz başarıyla bize ulaştı. Ekibimiz başvurunuzu inceledikten sonra en kısa sürede sizinle iletişime geçecektir."
+    },
+    {
+      "slug": "koc-ol",
+      "intakeValue": "koc",
+      "label": "Koç Ol",
+      "name": "Koç",
+      "discipline": "Koçluk",
+      "ink": "var(--ink-coach)",
+      "headline": "Çalışma programını sen kuruyorsun",
+      "audience": "Öğrencinin haftasını planla, takibini yap, motivasyonunu ayakta tut",
+      "metaTitle": "Koç Başvuru Formu",
+      "metaDescription": "İnalp Akademi koç kadrosuna katılın. Öğrencilerin çalışma programını kurun, düzenli takiple sınav yolculuklarına eşlik edin.",
+      "ogTitle": "İnalp Akademi'de Koç Ol",
+      "ogDescription": "Sınavı kazanmış biri olarak, aynı yolu yürüyen öğrencilere rehberlik edin.",
+      "successTitle": "Başvurunuz Alındı!",
+      "successDescription": "Koçluk başvurunuz başarıyla bize ulaştı. Ekibimiz başvurunuzu inceledikten sonra en kısa sürede sizinle iletişime geçecektir.",
+      "closedNotice": "Koçluk başvurularını şu an için almıyoruz. Başvurular yeniden açıldığında bu sayfadan duyuracağız."
+    }
+  ]
+}

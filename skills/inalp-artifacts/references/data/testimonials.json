@@ -1,0 +1,642 @@
+[
+  {
+    "id": "6",
+    "name": "Z. Köroğlu",
+    "role": "parent",
+    "title": "Doğru Yönlendirme ve Tavsiye",
+    "content": "Matematik hocamızın tavsiyesiyle başladığımız bu yolculukta, beklentilerimizin çok üzerinde bir ilgiyle karşılaştık. İlk deneme dersindeki o sıcak enerji, uzun vadeli bir başarı yolculuğuna dönüştü."
+  },
+  {
+    "id": "10",
+    "name": "N. Ayaydın",
+    "role": "parent",
+    "title": "Güvenilirliğin Adresi",
+    "content": "İnalp Akademi’yi tek cümleyle özetlemem gerekirse: Güvenilir ve öğrenciyle son derece ilgili bir kurum. Diğer tüm velilere, çocuklarının hem akademik gelişimleri hem de motivasyonları için bu profesyonel ekibi kesinlikle öneririm."
+  },
+  {
+    "id": "61",
+    "name": "M. Hüsnü Kalyoncu",
+    "role": "student",
+    "title": "Fiyat-Performans Dengesi",
+    "content": "Piyasayı baz aldığınızda sunulabilecek en kaliteli ve en ekonomik özel eğitmenlik programı kesinlikle İnalp Akademi. Hem profesyonel bir kadroyla çalışıp hem de bu kadar ulaşılabilir bir hizmet almak büyük bir şans."
+  },
+  {
+    "id": "3",
+    "name": "Z. Köroğlu",
+    "role": "parent",
+    "title": "Tıp Fakültesi Öğrencisi: En İyi Rol Model",
+    "content": "Eğitmen kadrosunun Tıp Fakültesi öğrencilerinden oluşması bizim için çok kıymetli. Kızım, eğitmeninin sadece bilgisinden değil, aynı zamanda çalışma disiplini ve deneyimlerinden de faydalanıyor. Onu kendine örnek alması motivasyonunu iki katına çıkarıyor.",
+    "featured": 1
+  },
+  {
+    "id": "33",
+    "name": "K. Hamza",
+    "role": "parent",
+    "title": "İyi Niyetli ve Samimi Kadro",
+    "content": "İnalp Akademi ile ilgili bizi en çok mutlu eden şey, eğitmenlerin son derece samimi ve iyi niyetli olması. Koçların harcadığı emeği takdir ediyorum; çocuklara sadece ders değil, gerçek bir çaba ve ilgiyle yaklaşıyorlar."
+  },
+  {
+    "id": "14",
+    "name": "Z. Bakırtaş",
+    "role": "parent",
+    "title": "Özel Ders Ön Yargısını Kıran Samimiyet",
+    "content": "Kızım başlangıçta özel ders almaya hiç sıcak bakmıyordu; ancak eğitmenimiz Eda’nın samimi ve ilgili yaklaşımı sayesinde bu ön yargısını tamamen kırdı. Şu an derslere karşı çok daha olumlu ve istekli yaklaşıyor olması bizim için en büyük mutluluk."
+  },
+  {
+    "id": "66",
+    "name": "A. Erbil",
+    "role": "student",
+    "title": "Tam Destek, Tam Başarı",
+    "content": "İnalp Akademi'yi kesinlikle öneririm çünkü sadece bir derste değil, eğitimle ilgili ihtiyaç duyduğum her konuda bana yardımcı oluyorlar. Eğitimin kalitesini her an hissediyorsunuz."
+  },
+  {
+    "id": "51",
+    "name": "B. Nurhan",
+    "role": "student",
+    "title": "2026 YKS Öğrencileri İçin Akran Danışmanlığı",
+    "content": "2026 YKS öğrencisi olarak, eğitmenimin sınav sistemini yeni bitirmiş (2024 YKS) birisi olması benim için çok büyük bir avantaj. Geçtiğim yollardan henüz çok yakın zamanda geçmiş biriyle çalışmak, sınavın güncel dilini anlamamı sağlıyor. Sıkılmadan, her sorumu detaylıca açıklayan ve anladığımdan emin olmadan geçmeyen bir sistemle ilerliyoruz.",
+    "featured": 2
+  },
+  {
+    "id": "75",
+    "name": "E. Tekin",
+    "role": "student",
+    "title": "Başarı Artık Bir Tercih",
+    "content": "Daha önce yapamadığımı düşündüğüm konuların aslında doğru yöntemle ne kadar kolay olduğunu gördüm. İnalp Akademi ile şimdiki halim arasında dağlar kadar fark var; artık başarabileceğimi biliyorum."
+  },
+  {
+    "id": "89",
+    "name": "F. Nur Ocak",
+    "role": "student",
+    "title": "Sıfırdan Başlayan Başarı",
+    "content": "İnalp Akademi’ye başlamadan önce matematikle alakalı bildiğim neredeyse hiçbir şey yoktu. Şu an ise artık bir temelim var ve bir şeyler bildiğimi hissediyorum. Sıfırdan bu noktaya gelmek benim için çok değerli."
+  },
+  {
+    "id": "76",
+    "name": "C. Tekin",
+    "role": "student",
+    "title": "Trigonometri Artık Sorun Değil",
+    "content": "İnalp Akademi’den önce Trigonometri başta olmak üzere birçok matematik konusu gözümde çok büyüyordu. Derslere başladıktan sonra işlediğimiz tüm konular benim için çok daha anlaşılır ve çözülebilir hale geldi."
+  },
+  {
+    "id": "20",
+    "name": "C. Erbii",
+    "role": "parent",
+    "title": "Tecrübeden Doğrudan Faydalanmak",
+    "content": "Yüksek puanlar alarak bu sınavı başarıyla geçmiş eğitmenlerin deneyimlerinden faydalanmak bizim için çok kıymetli. Sadece ders değil, sınav anını ve hazırlık sürecini nasıl yöneteceklerine dair bizzat tecrübe edilmiş bilgiler ediniyoruz."
+  },
+  {
+    "id": "42",
+    "name": "N. Mazlum",
+    "role": "parent",
+    "title": "İnanılmaz İletişim Hızı",
+    "content": "Geri dönüş hızı gerçekten harika! Bir arkadaşıma önerdim, 1 saat içinde iletişim kurup birkaç gün içinde derslere başladılar. Organizatörlere ve eğitmenimize ulaşmak her an mümkün; bu hız ve ulaşılabilirlik sınav sürecindeki bir veli için çok değerli."
+  },
+  {
+    "id": "90",
+    "name": "F. Nur Ocak",
+    "role": "student",
+    "title": "Fonksiyonlar Artık Korkutmuyor",
+    "content": "En çok zorlandığım konu Fonksiyonlar’dı. Ancak derslerle birlikte aslında bu konunun çok da zor olmayan, kolay kısımlarının da olduğunu fark ettim. Bakış açım tamamen değişti."
+  },
+  {
+    "id": "79",
+    "name": "C. Tekin",
+    "role": "student",
+    "title": "Neden İnalp Akademi?",
+    "content": "Arkadaşlarıma burayı kesinlikle öneririm. Çünkü sadece ders anlatmıyorlar, öğrencinin konuyu gerçekten anlamasını sağlıyorlar. Başarılı olmak isteyen her öğrencinin denemesi gereken bir kurum."
+  },
+  {
+    "id": "46",
+    "name": "S. Hamza",
+    "role": "student",
+    "title": "Somut Net Artışı ve Akademik Başarı",
+    "content": "Eğitim sürecine başlamadan önce sürekli ertelediğim ve bir türlü ısınamadığım eksik konularım vardı. Ancak İnalp Akademi'nin sunduğu disiplinli ve öğrenciyi içine çeken sistem sayesinde, bu konuları zorunlu hissetmeden, keyif alarak tamamladık. Bu stratejik çalışmanın sonucunda özellikle TYT Fen kısmında 10 netten 18 nete kadar yükselerek inanılmaz bir başarı elde ettim.",
+    "featured": 3
+  },
+  {
+    "id": "13",
+    "name": "Z. Bakırtaş",
+    "role": "parent",
+    "title": "Ekonomik ve Kaliteli Eğitim",
+    "content": "İnalp Akademi ile bir arkadaşımın tavsiyesiyle tanıştım. Piyasadaki diğer seçeneklere göre ders saati ücretlerinin çok daha makul olması ve sundukları kalitenin yüksekliği, karar vermemizde en büyük etkenlerden biri oldu. Hem ekonomik hem de profesyonel bir destek arayan tüm velilere tavsiye ederim."
+  },
+  {
+    "id": "23",
+    "name": "C. Erbii",
+    "role": "parent",
+    "title": "Velinin Gözüyle İnalp Akademi",
+    "content": "Kısa sürede karar verdiğimiz bu platform, beklentilerimizi fazlasıyla karşıladı. Başarılı, dinamik ve tecrübeli bir kadroyla çalışmak isteyen tüm velilere İnalp Akademi’yi gönül rahatlığıyla öneririm."
+  },
+  {
+    "id": "58",
+    "name": "M. Hüsnü Kalyoncu",
+    "role": "student",
+    "title": "Disiplin ve Samimiyet Bir Arada",
+    "content": "Eğitmenimin yaklaşımı tam olması gerektiği gibi: Disiplinli ama bir o kadar da samimi. Konuyu anladığımdan emin olmadan asla geçmiyor ve en karmaşık konuları bile çok farklı, etkili yöntemlerle anlatıyor. Kendi yoğunluğuna rağmen beni her zaman ön planda tutması kendimi değerli hissettiriyor."
+  },
+  {
+    "id": "11",
+    "name": "N. Ayaydın",
+    "role": "parent",
+    "title": "Planlı ve Düzenli İlerleme",
+    "content": "Eğitim sürecinin başından beri her şey planlandığı gibi, çok düzenli ilerliyor. Sürecin her aşamasında hızlı bilgilendiriliyoruz; ilgili ve deneyimli hocalarla çalışmak veli olarak içimizi çok rahatlatıyor."
+  },
+  {
+    "id": "71",
+    "name": "E. Tekin",
+    "role": "student",
+    "title": "Sohbet Eşliğinde Matematik",
+    "content": "Matematik dersleri normalde sıkıcı olur diye düşünülür ama burada dersler tam bir sohbet eşliğinde, gayet keyifli ve eğlenceli geçiyor. Zamanın nasıl geçtiğini anlamıyorum."
+  },
+  {
+    "id": "31",
+    "name": "K. Hamza",
+    "role": "parent",
+    "title": "Çalışan Öğrenci İçin Gerçek Verim",
+    "content": "İnalp Akademi’yi kesinlikle tavsiye ederim; çünkü derslerine asılan ve gerçekten başarmak isteyen bir öğrenci için sistemleri inanılmaz verimli işliyor. Çocuğumun eğitmenle birebir, karşı karşıya çalışmasının, kendi başına çalışmasından çok daha faydalı olduğunu bizzat gözlemledim."
+  },
+  {
+    "id": "45",
+    "name": "N. Mazlum",
+    "role": "parent",
+    "title": "Hızlı Karar, Net Sonuç",
+    "content": "Sosyal medyada takip ederken yaptıkları işin mantığıma çok uygun olduğunu fark ettim. Deneme dersi sonrası ailece hemen karar verdik ve devam ettik. İlk günden beri düzenli ders yapıyoruz ve somut bir ilerleme kaydediyoruz."
+  },
+  {
+    "id": "49",
+    "name": "B. Nurhan",
+    "role": "student",
+    "title": "Abi-Kardeş Bağı ve Samimiyet",
+    "content": "Burada eğitmenler sadece ders anlatıp süresi bitince ayrılan kişiler değil; bizim aramızda gerçek bir abi-kardeş bağı var. Eğitmenimin sınav senesindeki hatalarını ve artılarını bana aktarması, yolumu aydınlatıyor. Yorulduğumda beni anlayan, 1-2 dakika sohbetle motivasyonumu toplayan ve süreci keyifli kılan bir anlayışla çalışıyoruz."
+  },
+  {
+    "id": "87",
+    "name": "G. Gül",
+    "role": "student",
+    "title": "Derece Sahibiyle Çalışmanın Farkı",
+    "content": "Koçumun başarılı ve derece sahibi birisi olması beni çok tatmin ediyor. Ulaşabileceğim, birebir iletişim kurabileceğim bu kadar başarılı insanların yanımda olması bana büyük bir güven veriyor."
+  },
+  {
+    "id": "15",
+    "name": "Z. Bakırtaş",
+    "role": "parent",
+    "title": "Kusursuz İletişim ve Destek",
+    "content": "İnalp Akademi ile olan iletişim sürecimizden çok memnunuz; her şey gayet güzel ve hızlı ilerliyor. İhtiyaç duyduğumuz her an yanımızda olduklarını hissettirmeleri, bir veli olarak süreci çok daha huzurlu yönetmemizi sağlıyor."
+  },
+  {
+    "id": "91",
+    "name": "F. Nur Ocak",
+    "role": "student",
+    "title": "Neden Öneriyorum?",
+    "content": "İnalp Akademi’yi arkadaşlarıma kesinlikle öneririm. Çünkü öğretme konusunda gerçekten başarılılar ve öğrencinin seviyesine göre harika bir yol çiziyorlar."
+  },
+  {
+    "id": "60",
+    "name": "M. Hüsnü Kalyoncu",
+    "role": "student",
+    "title": "Çekinceleri Aşan Güven",
+    "content": "Başlarda yaşıt olduğumuz için soru sormaya çekiniyordum ama dersler ilerledikçe bu çekincem tamamen ortadan kalktı. Eğitmenimin profesyonelliği ve sıcaklığı sayesinde artık en ufak takıldığım yeri bile büyük bir rahatlıkla sorabiliyorum. Bu güven ortamı öğrenme hızımı iki katına çıkardı."
+  },
+  {
+    "id": "52",
+    "name": "A. Nur Ateş",
+    "role": "student",
+    "title": "Eğitmen Sabrı ve Bağlılık",
+    "content": "Eğitmenim benim için bir öğretmenden çok daha fazlası. Her derste bana gösterdiği sabra hayranlık duyuyorum. O kadar eğleniyoruz ki, matematik derslerini hayatımda ilk defa bu kadar iple çekiyorum."
+  },
+  {
+    "id": "38",
+    "name": "A. Güngör",
+    "role": "parent",
+    "title": "İhtiyaca Göre Şekillenen Eğitim",
+    "content": "Bir veli olarak bizi en çok memnun eden durum, eğitimin tamamen kızımın o anki ihtiyacına göre şekillenmesi. Tek bir derse bağlı kalmadan, eksik olduğu farklı alanlarda da destek alabilmesi süreci çok daha verimli kılıyor."
+  },
+  {
+    "id": "54",
+    "name": "A. Nur Ateş",
+    "role": "student",
+    "title": "Çekinmeden Soru Sorabilme Özgürlüğü",
+    "content": "Derste kendimi o kadar rahat hissediyorum ki, aklıma takılan en ufak şeyi bile hiç çekinmeden dile getirebiliyorum. Soru çok kolay olsa bile eğitmenim her seferinde 'anlamadığın bir yer var mı?' diye sorarak içimi rahatlatıyor."
+  },
+  {
+    "id": "35",
+    "name": "K. Hamza",
+    "role": "parent",
+    "title": "Şeffaf ve Samimi İletişim",
+    "content": "Kurumun iletişim süreci gayet iyi ve düzenli ilerliyor. Eğitmenlerin samimiyeti ve geri bildirimlerdeki dürüstlüğü, sürecin her aşamasında kendimizi güvende ve bilgilendirilmiş hissetmemizi sağlıyor."
+  },
+  {
+    "id": "32",
+    "name": "K. Hamza",
+    "role": "parent",
+    "title": "Netlerde Somut Artış",
+    "content": "Eğitimin en güzel sonucunu sınav sonuçlarında gördük; çocuğumun netlerinde gözle görülür bir artış var. Başarısını kanıtlamış eğitmenlerle çalışmanın ve bu disiplini sahaya yansıtmanın karşılığını almak bir veli olarak bizi çok memnun ediyor."
+  },
+  {
+    "id": "4",
+    "name": "Z. Köroğlu",
+    "role": "parent",
+    "title": "Hızlı ve Etkili İletişim",
+    "content": "İnalp Akademi ile olan iletişim sürecimizden çok memnunuz. Geri dönüşler son derece hızlı ve bilgilendirmeler bizim için çok etkili oluyor. Planlı ve düzenli ilerleyen bu sistem sayesinde çocuğumuzun gelişimini yakından takip edebiliyoruz."
+  },
+  {
+    "id": "9",
+    "name": "N. Ayaydın",
+    "role": "parent",
+    "title": "Hızlı ve İlgili İletişim",
+    "content": "Bir veli olarak iletişim sürecimizden çok memnunuz. Bilgilendirme ve geri dönüşler hem çok hızlı hem de son derece ilgili. İhtiyaç duyduğumuz her an yanımızda olduklarını bilmek, bu sınav sürecinde en büyük desteğimiz oldu."
+  },
+  {
+    "id": "40",
+    "name": "N. Mazlum",
+    "role": "parent",
+    "title": "Uyumun ve Enerjinin Zirvesi",
+    "content": "Eğitmenimiz ile yakaladığımız uyum tek kelimeyle kusursuz; 100 üzerinden 100 diyebilirim! Enerjileri, duygu durumları ve tabiatları o kadar örtüştü ki oğlum dersleri çok daha büyük bir hevesle takip ediyor. Bilgisine güvendiği birini örnek alarak çalışması başarısını ikiye katlıyor."
+  },
+  {
+    "id": "41",
+    "name": "N. Mazlum",
+    "role": "parent",
+    "title": "Matematik Korkusundan Tahtaya Kalkma Cesaretine",
+    "content": "Derslere başladıktan sonra oğlum matematiği daha çok sevmeye ve anlayarak çalışmaya başladı. Okulda tahtaya kalkma özgüveni kazandı ve deneme netlerindeki artış gayet iyi seyrediyor. Çözemediği soruları mutlaka sorup anında geri dönüş alması gelişimini hızlandırıyor."
+  },
+  {
+    "id": "44",
+    "name": "N. Mazlum",
+    "role": "parent",
+    "title": "Ulaşılabilir Tıp Eğitimi Ayrıcalığı",
+    "content": "Tıp Fakültesi öğrencilerinden ders almanın bu kadar ulaşılabilir olması bizi en çok mutlu eden şeylerden biri. Başarılı öğrencilerin deneyimlerinden bu denli kolay faydalanabilmek, çocuklarımızın geleceği için çok kıymetli bir fırsat."
+  },
+  {
+    "id": "1",
+    "name": "Z. Köroğlu",
+    "role": "parent",
+    "title": "Gelecek ve Kariyer Odaklı Yaklaşım",
+    "content": "İnalp Akademi’yi diğer kurumlardan ayıran en önemli özellik, sadece ders başarısına değil, çocukların geleceğine odaklanmaları. Kızım için seçtiğimiz eğitmenin hem bir öğretmen hem de bir rol model olması, kariyer hedefleri için büyük bir ilham kaynağı oldu. Başka velilere de çocuklarının örnek alabileceği kişilerle çalışmaları için kesinlikle öneririm."
+  },
+  {
+    "id": "7",
+    "name": "N. Ayaydın",
+    "role": "parent",
+    "title": "Güven ve Hızlı Karar",
+    "content": "İnternet üzerinden yaptığım araştırmalar sonucunda İnalp Akademi ile karşılaştım. Sundukları vizyon ve eğitim anlayışına o kadar çok inandım ve güvendim ki, deneme süreci sonunda hiç vakit kaybetmeden hemen karar verdik. Bu güvenin karşılığını her geçen gün artan bir başarıyla alıyoruz."
+  },
+  {
+    "id": "21",
+    "name": "C. Erbii",
+    "role": "parent",
+    "title": "Hızlı Karar, Kaliteli Eğitim",
+    "content": "İnalp Akademi’nin sistemini gördüğümüzde karar verme sürecimiz çok kısa ve hızlı oldu. Sundukları modelin oğlumun ihtiyaçlarına tam olarak cevap vereceğine ikna olduk ve ne kadar doğru bir karar verdiğimizi her geçen gün daha iyi anlıyoruz."
+  },
+  {
+    "id": "25",
+    "name": "H. Alkış",
+    "role": "parent",
+    "title": "Test Çözme Oranında Belirgin Artış",
+    "content": "Derslere başladıktan sonra çocuğumda gözlemlediğim en somut değişim, test çözme oranındaki ciddi artış oldu. Eskiden soru çözmekte zorlanan çocuğum, artık çok daha fazla soruyla vakit geçiriyor ve bu disiplin netlerine de doğrudan yansıyor."
+  },
+  {
+    "id": "36",
+    "name": "A. Güngör",
+    "role": "parent",
+    "title": "Özel Dersten Çok Daha Ötesi",
+    "content": "İnalp Akademi’nin sunduğu sistem, klasik bir özel dersten çok daha fazlasını ifade ediyor. Bizim için en büyük avantajı, ihtiyaca göre farklı derslerin de alınabiliyor olması. Bu esneklik sayesinde kızımın eksiklerini çok daha hızlı ve verimli bir şekilde tamamlayabiliyoruz."
+  },
+  {
+    "id": "62",
+    "name": "A. Erbil",
+    "role": "student",
+    "title": "Yalnız Değil, Daha Güçlü",
+    "content": "Kendi başıma ders çalışırken konuları anlamakta çok zorlanıyordum ve verimim düşüktü. İnalp Akademi ile tanıştıktan sonra eğitmenlerimizin farklı anlatım tarzları sayesinde konuları çok daha hızlı ve derinlemesine kavramaya başladım. Tek başıma çalışmaya göre aradaki fark inanılmaz."
+  },
+  {
+    "id": "63",
+    "name": "A. Erbil",
+    "role": "student",
+    "title": "İçimdeki Gücü Keşfettim",
+    "content": "İnalp Akademi benim içimdeki gerçek potansiyeli ortaya çıkardı. Eğer bu süreci tek başıma yürütmeye çalışsaydım, şu anki seviyemin çok daha gerisinde kalacağımı biliyorum. Onların desteğiyle sınırlarımı aştım."
+  },
+  {
+    "id": "22",
+    "name": "C. Erbii",
+    "role": "parent",
+    "title": "Doğru Rol Modeller",
+    "content": "Oğlumun karşısında kendisi gibi öğrenci olan ama hedeflerine ulaşmış başarılı birini görmesi müthiş bir motivasyon kaynağı. Eğitmenin bir öğrenci olması, oğlumun 'ben de başarabilirim' inancını her geçen gün perçinliyor."
+  },
+  {
+    "id": "39",
+    "name": "A. Güngör",
+    "role": "parent",
+    "title": "Tavsiye Edilen Güvenilir Adres",
+    "content": "Aldığımız hizmetten o kadar memnunuz ki, çevremdeki tüm arkadaşlarıma İnalp Akademi’yi gönül rahatlığıyla tavsiye ettim. Profesyonel bir yaklaşım ve başarılı eğitmenlerle çalışmak isteyen her veli burayı değerlendirmeli."
+  },
+  {
+    "id": "50",
+    "name": "B. Nurhan",
+    "role": "student",
+    "title": "7/24 Destek ve Kesintisiz İletişim",
+    "content": "İnalp Akademi’de asla yalnız hissetmiyorsunuz. Gece geç saatlerde bile bir soru atsam 5-10 dakika içinde çözümle geri dönüş yapılıyor. Bu hızlı iletişim, hocalarınızın size ne kadar ümitli baktığının ve başarınızı ne kadar önemsediğinin en büyük kanıtı. Kurucumuzdan eğitmenlerimize kadar her an ulaşılabilir bir ekip yanınızda."
+  },
+  {
+    "id": "67",
+    "name": "A. Erbil",
+    "role": "student",
+    "title": "Kalitenin Tek Kelimelik Özeti",
+    "content": "İnalp Akademi’yi tek bir kelimeyle anlatmam gerekirse o kelime kesinlikle: Kalite. Sundukları eğitim sistemi ve eğitmen yaklaşımlarıyla bu farkı ortaya koyuyorlar."
+  },
+  {
+    "id": "82",
+    "name": "Z. Yağmur Özdemir",
+    "role": "student",
+    "title": "Motivasyonu Koruyan Destek",
+    "content": "Yapamadığım veya anlamadığım bir konu olduğunda eğitmenim her şeyi sabırla açıklığa kavuşturuyor. Motivasyonumun düşmesine asla izin vermiyor, her zaman moralimi yüksek tutmama yardımcı oluyor."
+  },
+  {
+    "id": "12",
+    "name": "N. Ayaydın",
+    "role": "parent",
+    "title": "Velinin Tercihi: İnalp Akademi",
+    "content": "İnternette araştırma yaparken rastladığımız ve beğenip güvendiğimiz bu yapı, beklentilerimizi fazlasıyla karşıladı. İlgili kadrosu ve sonuç odaklı eğitimiyle İnalp Akademi’yi tüm samimiyetimle öneriyorum."
+  },
+  {
+    "id": "2",
+    "name": "Z. Köroğlu",
+    "role": "parent",
+    "title": "Para Değil, Çocuk Odaklı Bir Kurum",
+    "content": "Veli olarak bizi en çok mutlu eden şey, İnalp Akademi’nin para odaklı değil, çocukların geleceğini kazanma odaklı olmasıydı. Bize karşı her zaman ılımlı, ilgili ve dürüst yaklaştılar. Bu güveni hissetmek bir ebeveyn için her şeyden önemli."
+  },
+  {
+    "id": "73",
+    "name": "E. Tekin",
+    "role": "student",
+    "title": "En Rahat Yoldan Başarı",
+    "content": "İnalp Akademi’yi tek cümleyle anlatmam gerekirse: 'En rahat yoldan başarı.' Karmaşadan uzak, en etkili ve en konforlu öğrenme metodu burada."
+  },
+  {
+    "id": "68",
+    "name": "A. Erbil",
+    "role": "student",
+    "title": "Gelişimi Hissediyorum",
+    "content": "Bu dersleri almadan önceki halimle şimdiki halim arasında çok büyük bir fark var. Akademik olarak kendimi ne kadar geliştirdiğimi ve üzerine koyarak ilerlediğimi net bir şekilde hissediyorum."
+  },
+  {
+    "id": "47",
+    "name": "S. Hamza",
+    "role": "student",
+    "title": "Seni Anlayan Eğitmenlerle Maksimum Motivasyon",
+    "content": "Sürecin en büyük avantajı, derslerin sadece bilgi aktarımı değil, samimiyet ve karşılıklı anlayış üzerine kurulu olmasıdır. Karşınızda sizi gerçekten anlayan, sizin geçtiğiniz zorlu sınav yollarından çok yakın zamanda geçmiş ve her an ulaşılabilir olan yaşıtlarınızın olması, motivasyonun hep zirvede kalmasını sağlıyor. Bu süreçte anlaşıldığınızı ve desteklendiğinizi her an hissediyorsunuz."
+  },
+  {
+    "id": "16",
+    "name": "Z. Bakırtaş",
+    "role": "parent",
+    "title": "Veli Tavsiyesiyle Gelen Güven",
+    "content": "Sadece kendi tecrübelerimle değil, çevremdeki velilere de gönül rahatlığıyla İnalp Akademi’yi öneriyorum. Rabbim yollarını açık etsin, öğrenciyi anlayan ve destekleyen bir platformda olmak harika."
+  },
+  {
+    "id": "55",
+    "name": "A. Nur Ateş",
+    "role": "student",
+    "title": "Vizyon ve Network",
+    "content": "Eğitmenlerimizin Tıp Fakültesi öğrencisi olması sadece ders başarısı değil, aynı zamanda harika bir vizyon katıyor. Şimdiden bir doktor çevresi oluşturmak ve geleceğin doktorlarından ders almak gerçekten büyük bir ayrıcalık."
+  },
+  {
+    "id": "88",
+    "name": "G. Gül",
+    "role": "student",
+    "title": "Potansiyelin Zirvesi",
+    "content": "Beni bu süreçte en mutlu eden şey, gerçekten başarılı insanlarla konuşmanın ve onlardan bir şeyler öğrenmenin farkını hissetmek oldu. İnalp Akademi, hedeflerime giden yolu kısalttı."
+  },
+  {
+    "id": "19",
+    "name": "C. Erbii",
+    "role": "parent",
+    "title": "Yaş Yakınlığının Pozitif Etkisi",
+    "content": "Eğitmeninin de bir öğrenci olması ve yaşlarının birbirine yakınlığı oğlumun çok hoşuna gitti. Aralarındaki bu samimi bağ, derslerin çok daha verimli ve isteyerek geçmesini sağlıyor; klasik öğretmen-öğrenci mesafesinin yerini güçlü bir iletişim aldı."
+  },
+  {
+    "id": "29",
+    "name": "H. Alkış",
+    "role": "parent",
+    "title": "Eğitimde Çözüm Ortağınız",
+    "content": "Çocuğumuzun ders sonrası geri bildirimlerinin her zaman iyi olması, İnalp Akademi’nin doğru bir sistem uyguladığını gösteriyor. Sınav maratonunda samimi, güleryüzlü ve güvenilir bir çözüm ortağı arayan tüm velilere tavsiye ederim."
+  },
+  {
+    "id": "28",
+    "name": "H. Alkış",
+    "role": "parent",
+    "title": "Profesyonel İletişim Süreci",
+    "content": "İletişim sürecimizden ve aldığımız bilgilendirmelerden son derece memnunuz. Geri dönüşlerin hızı ve kalitesi, sürecin ne kadar profesyonel yönetildiğinin en büyük kanıtı. Veli olarak her an desteklendiğimizi hissediyoruz."
+  },
+  {
+    "id": "64",
+    "name": "A. Erbil",
+    "role": "student",
+    "title": "Motivasyonun En Pratik Hali",
+    "content": "Eğitmenlerimin beni anlama ve motive etme şekli gerçekten 'çok işe yarıyor'. Sadece moral vermekle kalmıyorlar, akademik olarak da önümü görmemi sağlıyorlar."
+  },
+  {
+    "id": "5",
+    "name": "Z. Köroğlu",
+    "role": "parent",
+    "title": "Ailemizden Biri Gibi",
+    "content": "İnalp Akademi’yi tek cümleyle tanımlamam gerekirse; çocuklarımızın ablası, abisi gibi yani ailemizden birileri gibiler. Bu samimi ortam, çocuğun dersi daha iyi anlamasını ve eğitim sürecine çok daha kolay adapte olmasını sağlıyor."
+  },
+  {
+    "id": "83",
+    "name": "Z. Yağmur Özdemir",
+    "role": "student",
+    "title": "Ortak Amaç, Gerçek Emek",
+    "content": "İnalp Akademi’yi tek cümleyle anlatmam gerekirse; öğrenciyle ortak bir amaç uğruna emek veren, her adımda yardımcı olan bir kurum diyebilirim. Burada gerçekten sizin başarınız için çaba harcandığını hissediyorsunuz."
+  },
+  {
+    "id": "70",
+    "name": "E. Tekin",
+    "role": "student",
+    "title": "Bir Eğitmenden Daha Fazlası",
+    "content": "Eğitmenim bana sadece bir öğretmen gibi değil, bir abla samimiyetiyle yaklaşıyor. Bu içten yaklaşım, derslerin stresini alıp yerini güven duygusuna bırakıyor."
+  },
+  {
+    "id": "77",
+    "name": "C. Tekin",
+    "role": "student",
+    "title": "Anlatış Tarzındaki Fark",
+    "content": "Beni bu süreçte en mutlu eden şey kesinlikle hocamın anlatış tarzı. Karmaşık konuları bile o kadar sade ve etkili anlatıyor ki, 'aslında bu kadar zor değilmiş' diyebiliyorsunuz."
+  },
+  {
+    "id": "34",
+    "name": "K. Hamza",
+    "role": "parent",
+    "title": "İyi Düşünülmüş Bir Sistem",
+    "content": "İnalp Akademi, gerçekten iyi düşünülmüş bir proje ve çok iyi insanlarla yönetiliyor. Hem iletişim süreci hem de öğrenciye olan yaklaşımları, bu sistemin profesyonel ve vicdanlı bir yapı üzerine kurulduğunu gösteriyor."
+  },
+  {
+    "id": "86",
+    "name": "G. Gül",
+    "role": "student",
+    "title": "Biyoloji Artık Sorun Değil",
+    "content": "Başaracağıma olan inancım İnalp Akademi sayesinde çok arttı. Biyoloji’de bir türlü oturtamadığım üniteleri buradaki derslerle tamamen anladım. Artık anlamadığım konu kalmadı, bakış açım tamamen değişti."
+  },
+  {
+    "id": "37",
+    "name": "A. Güngör",
+    "role": "parent",
+    "title": "Okul Derslerinde Belirgin Başarı",
+    "content": "Kızım adına gönül rahatlığıyla söyleyebilirim ki; okul dersleri için aldığımız bu destek gerçekten çok faydalı oldu. Derslerdeki başarısının artması ve konuları daha iyi kavraması, İnalp Akademi’nin eğitim kalitesini bizzat görmemizi sağladı."
+  },
+  {
+    "id": "43",
+    "name": "N. Mazlum",
+    "role": "parent",
+    "title": "Harika Bir Fikir, Gerçek Bir Fayda",
+    "content": "İnalp Akademi’yi tek bir cümleyle özetlemem gerekirse: 'Harika bir fikir!' Yapılan iş mantığıma o kadar uygun geldi ki, ilk günden itibaren hem ailece hem de oğlumun adına çok doğru bir karar verdiğimizi gördük. Fayda gördüğümüz bu yapıyı tüm çevreme öneriyorum."
+  },
+  {
+    "id": "53",
+    "name": "A. Nur Ateş",
+    "role": "student",
+    "title": "Matematik Artık Keyifli",
+    "content": "Hayatımda daha önce hiç bu kadar keyif alarak matematik çalışmamıştım. Bunun sırrı, eğitmenimle aramızdaki o özel bağ. Dersi hem bir öğrenme süreci hem de bir eğlence zamanı olarak görüyoruz; bu da başarıyı beraberinde getiriyor."
+  },
+  {
+    "id": "59",
+    "name": "M. Hüsnü Kalyoncu",
+    "role": "student",
+    "title": "Dersin İçinde Kalmak",
+    "content": "Derslerde asla pasif bir dinleyici değilim; eğitmenim beni her daim dersin içinde tutuyor, soruları bana yorumlatıyor ve kendi yorumlarıyla ufkumu açıyor. Ders sonrası takıldığım her çalışmayı bir sonraki derste en ince ayrıntısına kadar tekrar sorma imkanı buluyorum. Bu interaktif yapı başarıyı getiriyor."
+  },
+  {
+    "id": "81",
+    "name": "Z. Yağmur Özdemir",
+    "role": "student",
+    "title": "Okula Tam Destek",
+    "content": "İnalp Akademi’yi arkadaşlarıma kesinlikle öneririm çünkü okuldaki derslerime ve sınavlarıma faydası çok büyük oluyor. Okulda anlamadığım yerleri burada pekiştirmek, başarı grafiğimi doğrudan yukarı taşıdı."
+  },
+  {
+    "id": "17",
+    "name": "Z. Bakırtaş",
+    "role": "parent",
+    "title": "Planlı ve Kaliteli Hizmet",
+    "content": "Derslerin planlı ilerlemesi, ücretlerin makul olması ve eğitmen kalitesi İnalp Akademi’yi bizim için vazgeçilmez kıldı. Hem eğitimci yaklaşımları hem de kurumsal yapılarıyla gerçekten çok başarılılar."
+  },
+  {
+    "id": "69",
+    "name": "A. Erbil",
+    "role": "student",
+    "title": "Potansiyelini Ortaya Çıkarmak İsteyenlere",
+    "content": "İnalp Akademi sayesinde potansiyelimi keşfettim. Eğer siz de tek başınıza çalışırken yerinizde saydığınızı düşünüyorsanız, profesyonel bir desteğin sizi ne kadar ileriye taşıyabileceğini burada görebilirsiniz."
+  },
+  {
+    "id": "65",
+    "name": "A. Erbil",
+    "role": "student",
+    "title": "Soru Sormak Hiç Bu Kadar Kolay Olmamıştı",
+    "content": "Anlamadığım bir yer olduğunda 'her zaman' ve hiç çekinmeden soru sorabiliyorum. Bu rahatlık ve güven ortamı, konuları eksiksiz öğrenmemi sağlıyor."
+  },
+  {
+    "id": "27",
+    "name": "H. Alkış",
+    "role": "parent",
+    "title": "Tavsiye Edilen Kalite",
+    "content": "İnalp Akademi ile bir tavsiye üzerine tanıştık ve ne kadar doğru bir yönlendirme olduğunu kısa sürede anladık. Deneme dersinden itibaren aldığımız olumlu enerji, profesyonel bir eğitim süreciyle birleşince ortaya harika sonuçlar çıktı."
+  },
+  {
+    "id": "78",
+    "name": "C. Tekin",
+    "role": "student",
+    "title": "Başarının Kısa Özeti",
+    "content": "İnalp Akademi’yi tek bir kelimeyle anlatmam gerekirse: Başarılı. Hem sistem olarak hem de eğitmen kalitesi olarak beklentilerimi tam anlamıyla karşılıyorlar."
+  },
+  {
+    "id": "85",
+    "name": "G. Gül",
+    "role": "student",
+    "title": "Rakiplerim Duymasın!",
+    "content": "İnalp Akademi’yi arkadaşlarıma önermeyi pek istemem, çünkü bu kadar güzel bir platformda kendilerini çok iyi yetiştirip bana rakip olmalarından korkuyorum! :) Şaka bir yana, öğrenciyi bu kadar iyi geliştiren başka bir yer görmedim."
+  },
+  {
+    "id": "24",
+    "name": "H. Alkış",
+    "role": "parent",
+    "title": "Güven Üzerine Kurulu Bir Eğitim",
+    "content": "İnalp Akademi’yi tek bir kelimeyle tanımlamam gerekirse o kesinlikle 'güvenilir' olmasıdır. Çocuğumuzu emanet ettiğimiz bu platformda, her adımda hissettiğimiz o dürüst ve sağlam kurumsal yapı, bir veli olarak içimizin tamamen rahat olmasını sağlıyor."
+  },
+  {
+    "id": "84",
+    "name": "Z. Yağmur Özdemir",
+    "role": "student",
+    "title": "Tekrarın Gücü",
+    "content": "Okulda gördüğüm bir konuyu burada tekrar etmenin ve farklı bir perspektifle görmenin konuyu kavramamda ne kadar etkili olduğunu fark ettim. Dersler tam anlamıyla eksiklerimi tamamlamaya yönelik."
+  },
+  {
+    "id": "48",
+    "name": "B. Nurhan",
+    "role": "student",
+    "title": "Eğitmen Kalitesi Çok Yüksek",
+    "content": "İnalp Akademi’nin en büyük ayrıcalığı, eğitmen kadrosunun YKS’de derece yapmış Tıp Fakültesi öğrencilerinden oluşması. Karşınızda sadece konuyu bilen değil, bu sınavın zorluklarını bizzat yaşayıp başarıya ulaşmış vizyoner bir ekip var. Onların tecrübeleriyle ders işlemek ve hedeflerinize giden yolda onlardan ilham almak gerçekten bambaşka bir duygu."
+  },
+  {
+    "id": "56",
+    "name": "A. Nur Ateş",
+    "role": "student",
+    "title": "Önce ve Sonra Farkı",
+    "content": "Derslerden önceki halimle şimdiki halim arasında dağlar kadar fark var. Eskiden matematikten çekinirken, şu an matematik konusunda kafam inanılmaz rahat. Başarabildiğimi görmek her şeye değiyor."
+  },
+  {
+    "id": "57",
+    "name": "M. Hüsnü Kalyoncu",
+    "role": "student",
+    "title": "Zaman Kaybına Son",
+    "content": "Matematikte en büyük sorunum, sorulara doğru açıdan yaklaşamadığım için çok zaman kaybetmekti. İnalp Akademi ile bu durumu aştım. Hocamın verdiği taktikleri kendime uyarlayarak problemler, 2. dereceden denklemler ve köklü sayılar gibi kritik konularda çok daha hızlı ve akıcı çözümler yapmaya başladım. Netlerimdeki artış şimdiden denemelerime yansıyor."
+  },
+  {
+    "id": "72",
+    "name": "E. Tekin",
+    "role": "student",
+    "title": "Özgüven Patlaması",
+    "content": "İnalp Akademi ile çalışmaya başladıktan sonraki en büyük fark, sınav anındaki psikolojim oldu. Artık sınav kağıdı önüme geldiğinde kendime çok daha fazla güveniyorum."
+  },
+  {
+    "id": "30",
+    "name": "H. Alkış",
+    "role": "parent",
+    "title": "Beklentileri Karşılayan Sonuçlar",
+    "content": "Başta matematik olmak üzere çocuğumun zorlandığı alanlarda okul notlarında ve netlerinde gelişim görmek bizi gururlandırıyor. Tabii ki tüm velilere öneriyorum; burada gerçek bir emek ve başarı odaklılık var."
+  },
+  {
+    "id": "18",
+    "name": "C. Erbii",
+    "role": "parent",
+    "title": "Güncel Başarının Gücü",
+    "content": "İnalp Akademi’yi tercih etmemizdeki en büyük etken, eğitmenlerin sınav sürecinden yeni çıkmış ve yüksek başarı elde etmiş kişiler olmasıydı. Sınav sistemini bizzat deneyimlemiş ve başarılı olmuş birinden ders almak, oğlumun doğru stratejilerle ilerlemesini sağlıyor."
+  },
+  {
+    "id": "80",
+    "name": "Z. Yağmur Özdemir",
+    "role": "student",
+    "title": "Kimya Artık Favorim",
+    "content": "Kimya dersiyle aram genel olarak pek iyi değildi ve büyük bir ön yargım vardı. İnalp Akademi sayesinde artık bu ön yargım tamamen kalktı; Kimya artık en sevdiğim derslerden biri haline geldi. Başarabildiğimi görmek harika bir duygu."
+  },
+  {
+    "id": "26",
+    "name": "H. Alkış",
+    "role": "parent",
+    "title": "Karşılıklı Katkı ve Ortak Başarı",
+    "content": "İnalp Akademi ile ilgili beni en mutlu eden şey, sadece bir hizmet almak değil, karşılıklı bir katkı sürecinde olduğumuzu hissetmek. Bizlerin onlara, onların da bizim çocuklarımıza kattığı değerlerle sınav yolculuğumuz çok daha anlamlı hale geliyor."
+  },
+  {
+    "id": "74",
+    "name": "E. Tekin",
+    "role": "student",
+    "title": "Rahat İletişim, Hızlı Öğrenme",
+    "content": "Derslerde kendimi çok rahat hissediyorum ve takıldığım her noktayı genelde çekinmeden sorabiliyorum. Eğitmenimin yaklaşımı sayesinde soru sormak bir yük olmaktan çıktı."
+  },
+  {
+    "id": "8",
+    "name": "N. Ayaydın",
+    "role": "parent",
+    "title": "Sorumluluk Bilinci Gelişen Bir Eğitim",
+    "content": "Akademi ile çalışmaya başladıktan sonra çocuğumda gözlemlediğim en büyük değişim, derslerine karşı sorumluluklarını yerine getirmek için yoğun bir çaba sarf etmeye başlaması oldu. Hem disiplin hem de motivasyon açısından çocuğumun katettiği mesafe bizi çok mutlu ediyor."
+  }
+]

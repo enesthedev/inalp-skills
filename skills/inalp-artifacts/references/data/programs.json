@@ -1,0 +1,274 @@
+{
+  "_lessonPricingNote": "The single source for what a lesson costs. The fee is a property of the lesson, not of the package -- it is the same in all three -- so it is quoted once here and read by the packages section and by the fees answer in data/faq.json, which carries {{onlinePrice}} / {{faceToFacePrice}} / {{lessonDuration}} tokens instead of the numbers. Change a price here and both move together.",
+  "lessonPricing": {
+    "durationMinutes": 60,
+    "online": 1000,
+    "faceToFace": 1350
+  },
+  "packages": [
+    {
+      "id": "birebir",
+      "name": "Birebir Özel Ders",
+      "audience": "Belirli derslerde eksiklerini tamamlamak isteyenler için",
+      "features": [
+        "Tıp fakültesi öğrencisi eğitmenle birebir ders",
+        "Derse özel konu ve soru dokümanları",
+        "Yüz yüze veya online ders",
+        "Aynı eğitmenle süreç devamlılığı"
+      ],
+      "mostChosen": false,
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın"
+    },
+    {
+      "id": "ders-kocluk",
+      "name": "Ders + Koçluk",
+      "audience": "Ders desteğinin yanında düzenli takip isteyenler için",
+      "features": [
+        "Birebir özel ders",
+        "Haftalık kişiye özel çalışma programı",
+        "Programın düzenli kontrolü ve revizyonu",
+        "Deneme, net ve eksik konu takibi",
+        "Düzenli birebir koçluk görüşmesi"
+      ],
+      "mostChosen": true,
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın"
+    }
+  ],
+  "exams": [
+    {
+      "id": "yks",
+      "label": "12. Sınıf & Mezun",
+      "sublabel": "YKS",
+      "headline": "YKS'de eksiklerine göre şekillenen birebir hazırlık"
+    },
+    {
+      "id": "maarif",
+      "label": "9–11. Sınıf",
+      "sublabel": "Maarif",
+      "headline": "Maarif modeline göre okul ve sınav temposunu birlikte kurun"
+    },
+    {
+      "id": "lgs",
+      "label": "8. Sınıf",
+      "sublabel": "LGS",
+      "headline": "LGS hazırlığını eksiklere göre planlayın, gelişimi düzenli takip edin."
+    },
+    {
+      "id": "okul",
+      "label": "5–7. Sınıf",
+      "sublabel": "Okul dersleri",
+      "headline": "Okul derslerini güçlendirin, düzenli çalışma alışkanlığı kazandırın."
+    }
+  ],
+  "programs": [
+    {
+      "id": "yks-birebir",
+      "exam": "yks",
+      "name": "Birebir Özel Ders",
+      "tagline": "Eksik kaldığı konudan başlansın.",
+      "popular": false,
+      "features": [
+        "Tıp fakültesi öğrencisi eğitmenle birebir ders",
+        "TYT ve AYT'de eksik konulara yönelik çalışma",
+        "Derse özel konu ve soru dokümanları",
+        "Yüz yüze veya online ders seçeneği"
+      ],
+      "note": "Belirli derslerde veya konularda desteğe ihtiyaç duyanlar için.",
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın",
+      "prefill": { "subjects": ["Matematik"], "lessonMode": "face-to-face" }
+    },
+    {
+      "id": "yks-ders-kocluk",
+      "exam": "yks",
+      "name": "Ders + Koçluk",
+      "tagline": "Dersi, çalışma programını ve sınav sürecini birlikte takip edin.",
+      "popular": true,
+      "features": [
+        "Birebir özel ders",
+        "Haftalık çalışma programı ve revizyonu",
+        "Deneme analizi ve net takibi",
+        "Veliye haftalık ilerleme raporu",
+        "Sınavı yakın zamanda kazanmış eğitmenle düzenli görüşme"
+      ],
+      "note": "Hem ders desteği hem düzenli takip isteyenler için.",
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın",
+      "prefill": { "subjects": ["Koçluk", "Matematik"], "lessonMode": "online" }
+    },
+    {
+      "id": "yks-kocluk",
+      "exam": "yks",
+      "name": "Koçluk",
+      "tagline": "Dersini kendi çalışıyor, sürecini birlikte yönetiyoruz.",
+      "popular": false,
+      "features": [
+        "Haftalık kişisel çalışma programı",
+        "Deneme analizi ve net gelişimi takibi",
+        "Eksik konu ve önceliklerin belirlenmesi",
+        "Haftalık düzenli koçluk görüşmesi",
+        "Programın gelişime göre düzenli revizyonu",
+        "Yüz yüze veya online koçluk seçeneği"
+      ],
+      "note": "Derslerini kendi çalışıp sürecini planlı yürütmek isteyenler için.",
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın",
+      "prefill": { "subjects": ["Matematik", "Fizik"], "lessonMode": "online" }
+    },
+
+    {
+      "id": "maarif-birebir",
+      "exam": "maarif",
+      "name": "Birebir Özel Ders",
+      "tagline": "Eksikler büyümeden kapansın, konular sonraki yıla taşınmasın.",
+      "popular": false,
+      "features": [
+        "Tıp fakültesi öğrencisi eğitmenle birebir ders",
+        "Maarif müfredatına ve eksik konulara yönelik çalışma",
+        "Derse özel konu ve soru dokümanları",
+        "Yüz yüze veya online ders seçeneği"
+      ],
+      "note": "En çok Matematik ve Fizik derslerinde tercih ediliyor.",
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın",
+      "prefill": { "subjects": ["Matematik"], "lessonMode": "face-to-face" }
+    },
+    {
+      "id": "maarif-ders-kocluk",
+      "exam": "maarif",
+      "name": "Ders + Koçluk",
+      "tagline": "Dersi ve çalışma düzenini aynı süreçte birlikte yürütün.",
+      "popular": true,
+      "features": [
+        "Birebir özel ders",
+        "Haftalık çalışma programı ve revizyonu",
+        "Okul yazılıları ve sınav takibi",
+        "Düzenli gelişim takibi",
+        "Eğitmenle birebir süreç takibi",
+        "Sınavı yakın zamanda kazanmış eğitmenle düzenli görüşme"
+      ],
+      "note": "Ders desteğinin yanında düzenli takip isteyen öğrenciler için.",
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın",
+      "prefill": { "subjects": ["Koçluk", "Matematik"], "lessonMode": "online" }
+    },
+    {
+      "id": "maarif-kocluk",
+      "exam": "maarif",
+      "name": "Koçluk",
+      "tagline": "Dersini kendi çalışıyor, sürecini birlikte yönetiyoruz.",
+      "popular": false,
+      "features": [
+        "Haftalık kişisel çalışma programı",
+        "Deneme analizi ve net gelişimi takibi",
+        "Eksik konu ve önceliklerin belirlenmesi",
+        "Haftalık düzenli koçluk görüşmesi",
+        "Programın gelişime göre düzenli revizyonu",
+        "Yüz yüze veya online koçluk seçeneği"
+      ],
+      "note": "Derslerini kendi çalışıp sürecini planlı yürütmek isteyenler için.",
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın",
+      "prefill": { "subjects": ["Koçluk"], "lessonMode": "online" }
+    },
+
+    {
+      "id": "lgs-birebir",
+      "exam": "lgs",
+      "name": "Birebir Özel Ders",
+      "tagline": "Sınıf ortalamasını değil, kendi eksiğini hedefliyoruz.",
+      "popular": false,
+      "features": [
+        "Tıp fakültesi öğrencisi eğitmenle birebir ders",
+        "Matematik, Fen Bilimleri ve Türkçe'de eksiklere yönelik çalışma",
+        "LGS formatına uygun soru ve çözüm çalışmaları",
+        "Yüz yüze veya online ders seçeneği"
+      ],
+      "note": "En çok Matematik ve Fen Bilimleri derslerinde tercih ediliyor.",
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın",
+      "prefill": { "subjects": ["Matematik"], "lessonMode": "face-to-face" }
+    },
+    {
+      "id": "lgs-ders-kocluk",
+      "exam": "lgs",
+      "name": "Ders + Koçluk",
+      "tagline": "Ders desteğini haftalık planlama ve düzenli takiple birleştirin.",
+      "popular": true,
+      "features": [
+        "Birebir özel ders",
+        "Haftalık kişiye özel çalışma programı",
+        "Deneme takibi ve net gelişimi",
+        "Eksik konu ve hedef takibi",
+        "Düzenli veli bilgilendirmesi"
+      ],
+      "note": "Ders ve düzenli takibi birlikte isteyen öğrenciler için.",
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın",
+      "prefill": {
+        "subjects": ["Koçluk", "Fen Bilimleri"],
+        "lessonMode": "online"
+      }
+    },
+    {
+      "id": "lgs-kocluk",
+      "exam": "lgs",
+      "name": "Koçluk",
+      "tagline": "LGS sürecini haftalık planlayın, gelişimi düzenli takip edin.",
+      "popular": false,
+      "features": [
+        "Haftalık kişiye özel çalışma programı",
+        "Deneme ve net gelişimi takibi",
+        "Eksik konu ve hedef takibi",
+        "Programın düzenli kontrolü ve revizyonu",
+        "Düzenli birebir koçluk görüşmesi"
+      ],
+      "note": "Ders desteğine ihtiyaç duymadan düzenli takip isteyen öğrenciler için.",
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın",
+      "prefill": { "subjects": ["Koçluk"], "lessonMode": "online" }
+    },
+
+    {
+      "id": "okul-birebir",
+      "exam": "okul",
+      "name": "Birebir Özel Ders",
+      "tagline": "Okulda işlenen konuyu pekiştirin, eksikleri büyümeden kapatın.",
+      "popular": false,
+      "features": [
+        "Tıp fakültesi öğrencisi eğitmenle birebir ders",
+        "Okul müfredatına ve eksik konulara yönelik çalışma",
+        "Derse özel konu ve soru dokümanları",
+        "Yüz yüze veya online ders seçeneği"
+      ],
+      "note": "En çok Matematik ve Fen Bilimleri derslerinde tercih ediliyor.",
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın",
+      "prefill": { "subjects": ["Matematik"], "lessonMode": "online" }
+    },
+    {
+      "id": "okul-ders-kocluk",
+      "exam": "okul",
+      "name": "Ders + Koçluk",
+      "tagline": "Ders desteğini düzenli çalışma ve takiple birleştirin.",
+      "popular": true,
+      "features": [
+        "Birebir özel ders",
+        "Haftalık kişiye özel çalışma programı",
+        "Okul dersleri ve yazılı takibi",
+        "Eksik konu ve ödev takibi",
+        "Düzenli veli bilgilendirmesi"
+      ],
+      "note": "Hem ders desteği hem düzenli takip isteyen öğrenciler için.",
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın",
+      "prefill": { "subjects": ["Matematik"], "lessonMode": "online" }
+    },
+    {
+      "id": "okul-kocluk",
+      "exam": "okul",
+      "name": "Koçluk",
+      "tagline": "Çalışma düzenini oluşturun, okul sürecini düzenli takip edin.",
+      "popular": false,
+      "features": [
+        "Haftalık kişiye özel çalışma programı",
+        "Ödev ve okul dersleri takibi",
+        "Yazılı ve hedef takibi",
+        "Programın düzenli kontrolü ve revizyonu",
+        "Düzenli birebir koçluk görüşmesi"
+      ],
+      "note": "Ders desteğine ihtiyaç duymadan çalışma düzenini güçlendirmek isteyen öğrenciler için.",
+      "ctaLabel": "Ücretsiz Deneme Dersi Alın",
+      "prefill": { "subjects": ["Koçluk"], "lessonMode": "online" }
+    }
+  ]
+}
